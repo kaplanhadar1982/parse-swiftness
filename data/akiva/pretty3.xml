@@ -1,0 +1,1273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Mimshak>
+   <KoteretKovetz>
+      <SUG-MIMSHAK>2</SUG-MIMSHAK>
+      <MISPAR-GIRSAT-XML>006</MISPAR-GIRSAT-XML>
+      <TAARICH-BITZUA>20180318140127</TAARICH-BITZUA>
+      <KOD-SVIVAT-AVODA>2</KOD-SVIVAT-AVODA>
+      <KIVUN-MIMSHAK-XML>4</KIVUN-MIMSHAK-XML>
+      <KOD-SHOLEACH>512244146</KOD-SHOLEACH>
+      <SHEM-SHOLEACH>כלל פנסיה וגמל בע"מ</SHEM-SHOLEACH>
+      <KOD-MEZAHE-METAFEL>512244146</KOD-MEZAHE-METAFEL>
+      <SHEM-METAFEL>כלל פנסיה וגמל בע"מ</SHEM-METAFEL>
+      <MEZAHE-HAAVARA>004000512244146CONSLTPNN006201803181404394574.DAT</MEZAHE-HAAVARA>
+      <MISPAR-HAKOVETZ>20180318140439512244146</MISPAR-HAKOVETZ>
+   </KoteretKovetz>
+   <YeshutYatzran>
+      <KOD-MEZAHE-YATZRAN>512244146</KOD-MEZAHE-YATZRAN>
+      <SHEM-YATZRAN>כלל פנסיה וגמל בע"מ</SHEM-YATZRAN>
+      <MEZAHE-LAKOACH-MISLAKA xmlns:p2="http://www.w3.org/2001/XMLSchema-instance" p2:nil="true" />
+      <IshKesherYeshutYatzran>
+         <SHEM-PRATI>יובל</SHEM-PRATI>
+         <SHEM-MISHPACHA>שטינמץ ולטר</SHEM-MISHPACHA>
+         <ERETZ xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+         <SHEM-YISHUV xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+         <SEMEL-YESHUV xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+         <SHEM-RECHOV xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+         <MISPAR-BAIT xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+         <MISPAR-KNISA xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+         <MISPAR-DIRA xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+         <MIKUD xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+         <TA-DOAR xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+         <MISPAR-TELEPHONE-KAVI>‎0776384331</MISPAR-TELEPHONE-KAVI>
+         <MISPAR-SHLUCHA xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+         <MISPAR-CELLULARI xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+         <MISPAR-FAX xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+         <E-MAIL xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+         <HEAROT xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+      </IshKesherYeshutYatzran>
+      <YeshutMetafel>
+         <KOD-MEZAHE-METAFEL>512244146</KOD-MEZAHE-METAFEL>
+         <SHEM-METAFEL>כלל פנסיה וגמל בע"מ</SHEM-METAFEL>
+         <IshKesherYeshutMetafel>
+            <SHEM-PRATI>יובל</SHEM-PRATI>
+            <SHEM-MISHPACHA>שטינמץ ולטר</SHEM-MISHPACHA>
+            <ERETZ xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+            <SHEM-YISHUV xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+            <SEMEL-YESHUV xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+            <SHEM-RECHOV xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+            <MISPAR-BAIT xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+            <MISPAR-KNISA xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+            <MISPAR-DIRA xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+            <MIKUD xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+            <TA-DOAR xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+            <MISPAR-TELEPHONE-KAVI>‎0776384331</MISPAR-TELEPHONE-KAVI>
+            <MISPAR-SHLUCHA xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+            <MISPAR-CELLULARI xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+            <MISPAR-FAX xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+            <E-MAIL xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+            <HEAROT xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+         </IshKesherYeshutMetafel>
+      </YeshutMetafel>
+      <Mutzarim>
+         <Mutzar>
+            <!---I- next block located:[YeshutNimaansofi] for parent key:[9098:0000000015968100]. next block key:[9098:0000000015968100]-->
+            <YeshutNimaansofi>
+               <KOD-NIMAAN>3</KOD-NIMAAN>
+               <SUG-MEZAHE-NIMAAN>1</SUG-MEZAHE-NIMAAN>
+               <MISPAR-ZIHUI-NIMAAN>59999999</MISPAR-ZIHUI-NIMAAN>
+               <MISPAR-ZIHUI-ETZEL-YATZRAN-NIMAAN xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" p3:nil="true" />
+            </YeshutNimaansofi>
+            <NetuneiMutzar>
+               <KOD-MEZAHE-YATZRAN>512244146</KOD-MEZAHE-YATZRAN>
+               <KOD-MEZAHE-METAFEL>512244146</KOD-MEZAHE-METAFEL>
+               <SUG-MUTZAR>2</SUG-MUTZAR>
+               <MISPAR-MISLAKA>AC4E20D2-7322-4A4B-9BA7-2F2EEBC4DE18</MISPAR-MISLAKA>
+               <STATUS-RESHOMA>1</STATUS-RESHOMA>
+               <MISPAR-SHORA>1</MISPAR-SHORA>
+               <!---I- next block located:[YeshutMaasik] for parent key:[9098:0000000015968100]. next block key:[9098:0000000015968100:0000000000031176]-->
+               <YeshutMaasik>
+                  <MPR-MAASIK-BE-YATZRAN>0000000000031176</MPR-MAASIK-BE-YATZRAN>
+                  <SUG-MEZAHE-MAASIK>1</SUG-MEZAHE-MAASIK>
+                  <MISPAR-MEZAHE-MAASIK>512781089</MISPAR-MEZAHE-MAASIK>
+                  <MISPAR-TIK-NIKUIIM xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <SHEM-MAASIK>0002 טיב טירת צבי</SHEM-MAASIK>
+                  <ERETZ>ישראל</ERETZ>
+                  <SHEM-YISHUV>טירת צבי</SHEM-YISHUV>
+                  <SEMEL-YESHUV>268</SEMEL-YESHUV>
+                  <SHEM-RECHOV xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <MISPAR-BAIT xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <MISPAR-KNISA xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <MISPAR-DIRA xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <MIKUD>10815</MIKUD>
+                  <TA-DOAR>0</TA-DOAR>
+                  <MISPAR-TELEPHONE-KAVI>04-6078022</MISPAR-TELEPHONE-KAVI>
+                  <MISPAR-SHLUCHA xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <MISPAR-CELLULARI xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <MISPAR-FAX xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <E-MAIL xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <HEAROT xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <!---I- next block located:[IshKesherYeshutMaasik] for parent key:[9098:0000000015968100:0000000000031176]. next block key:[9098:0000000015968100:0000000000031176]-->
+                  <IshKesherYeshutMaasik>
+                     <SHEM-PRATI xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <SHEM-MISHPACHA xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <MISPAR-TELEPHONE-KAVI xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <MISPAR-CELLULARI xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <MISPAR-FAX xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <E-MAIL xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <HEAROT xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                  </IshKesherYeshutMaasik>
+               </YeshutMaasik>
+               <YeshutMaasik>
+                  <MPR-MAASIK-BE-YATZRAN>0000000000031856</MPR-MAASIK-BE-YATZRAN>
+                  <SUG-MEZAHE-MAASIK>1</SUG-MEZAHE-MAASIK>
+                  <MISPAR-MEZAHE-MAASIK>550018311</MISPAR-MEZAHE-MAASIK>
+                  <MISPAR-TIK-NIKUIIM xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <SHEM-MAASIK>0002 טיב - טירת צבי</SHEM-MAASIK>
+                  <ERETZ>ישראל</ERETZ>
+                  <SHEM-YISHUV>טירת צבי</SHEM-YISHUV>
+                  <SEMEL-YESHUV>268</SEMEL-YESHUV>
+                  <SHEM-RECHOV xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <MISPAR-BAIT xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <MISPAR-KNISA xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <MISPAR-DIRA xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <MIKUD xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <TA-DOAR>0</TA-DOAR>
+                  <MISPAR-TELEPHONE-KAVI>04-6078022</MISPAR-TELEPHONE-KAVI>
+                  <MISPAR-SHLUCHA xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <MISPAR-CELLULARI xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <MISPAR-FAX xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <E-MAIL xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <HEAROT xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <!---I- next block located:[IshKesherYeshutMaasik] for parent key:[9098:0000000015968100:0000000000031856]. next block key:[9098:0000000015968100:0000000000031856]-->
+                  <IshKesherYeshutMaasik>
+                     <SHEM-PRATI xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <SHEM-MISHPACHA xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <MISPAR-TELEPHONE-KAVI xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <MISPAR-CELLULARI xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <MISPAR-FAX xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <E-MAIL xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <HEAROT xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                  </IshKesherYeshutMaasik>
+               </YeshutMaasik>
+               <!---I- next block located:[YeshutLakoach] for parent key:[9098:0000000015968100]. next block key:[9098:0000000015968100]-->
+               <YeshutLakoach>
+                  <SUG-MEZAHE-LAKOACH>1</SUG-MEZAHE-LAKOACH>
+                  <MISPAR-ZIHUY-LAKOACH>0000000015968100</MISPAR-ZIHUY-LAKOACH>
+                  <SHEM-PRATI>עקיבה</SHEM-PRATI>
+                  <SHEM-MISHPACHA-KODEM xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <SHEM-MISHPACHA>לשם</SHEM-MISHPACHA>
+                  <MIN>1</MIN>
+                  <TAARICH-LEYDA>19770919</TAARICH-LEYDA>
+                  <PTIRA>2</PTIRA>
+                  <TAARICH-PTIRA xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <MATZAV-MISHPACHTI>2</MATZAV-MISHPACHTI>
+                  <ERETZ>ישראל</ERETZ>
+                  <SHEM-YISHUV>טירת צבי</SHEM-YISHUV>
+                  <SEMEL-YESHUV>268</SEMEL-YESHUV>
+                  <SHEM-RECHOV>.ת.ד</SHEM-RECHOV>
+                  <MISPAR-BAIT>10815</MISPAR-BAIT>
+                  <MISPAR-KNISA xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <MISPAR-DIRA xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <MIKUD>1081500</MIKUD>
+                  <TA-DOAR>0</TA-DOAR>
+                  <MISPAR-TELEPHONE-KAVI>04-6078103</MISPAR-TELEPHONE-KAVI>
+                  <MISPAR-SHLUCHA xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <MISPAR-CELLULARI xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <MISPAR-FAX xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <E-MAIL xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <HEAROT xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <MISPAR-YELADIM>0</MISPAR-YELADIM>
+               </YeshutLakoach>
+            </NetuneiMutzar>
+            <HeshbonotOPolisot>
+               <!---I- next block located:[HeshbonOPolisa] for parent key:[9098:0000000015968100]. next block key:[9098:0000000015968100:63]-->
+               <HeshbonOPolisa>
+                  <ASMACHTA-MEKORIT xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <MISPAR-POLISA-O-HESHBON>0000000015968100</MISPAR-POLISA-O-HESHBON>
+                  <SHEM-TOCHNIT>כלל פנסיה</SHEM-TOCHNIT>
+                  <KIDOD-ACHID>512244146000000000001700000000</KIDOD-ACHID>
+                  <MPR-MEFITZ-BE-YATZRAN>1621</MPR-MEFITZ-BE-YATZRAN>
+                  <TAARICH-NECHONUT>20180228</TAARICH-NECHONUT>
+                  <TAARICH-HITZTARFUT-MUTZAR>20120112</TAARICH-HITZTARFUT-MUTZAR>
+                  <TAARICH-HITZTARFUT-RISHON>20120112</TAARICH-HITZTARFUT-RISHON>
+                  <SUG-KEREN-PENSIA>2</SUG-KEREN-PENSIA>
+                  <PENSIA-VATIKA-O-HADASHA>2</PENSIA-VATIKA-O-HADASHA>
+                  <TAARICH-IDKUN-STATUS>20121001</TAARICH-IDKUN-STATUS>
+                  <STATUS-POLISA-O-CHESHBON>1</STATUS-POLISA-O-CHESHBON>
+                  <TAARICH-TCHILA-RISK-ZMANI xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <TOM-TOKEF-RISK-ZMANI xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <SUG-POLISA xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <SUG-TOCHNIT-O-CHESHBON>1</SUG-TOCHNIT-O-CHESHBON>
+                  <MADAD-BASIS xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <AZMADA-LEALVAHA xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <TAARICH-ACHRON-MOTAV-MUVET xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <KOLEL-ZAKAUT-AGACH>1</KOLEL-ZAKAUT-AGACH>
+                  <SHIOR-AGACH-MEUADOT>30.00</SHIOR-AGACH-MEUADOT>
+                  <AVTACHT-TESOA>2</AVTACHT-TESOA>
+                  <TAARICH-CIUM-AVTACHT-TESOA xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <MISPAR-GIMLAOT xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <KAYAM-KISUY-HIZONI>2</KAYAM-KISUY-HIZONI>
+                  <KISUY-ISHY-KVOZATI xmlns:p4="http://www.w3.org/2001/XMLSchema-instance" p4:nil="true" />
+                  <!---I- next block located:[KtovetLemishloach] for parent key:[9098:0000000015968100:63]. next block key:[9098:0000000015968100:63]-->
+                  <KtovetLemishloach>
+                     <ERETZ>ישראל</ERETZ>
+                     <SHEM-YISHUV>טירת צבי</SHEM-YISHUV>
+                     <SEMEL-YESHUV>268</SEMEL-YESHUV>
+                     <SHEM-RECHOV>.ת.ד</SHEM-RECHOV>
+                     <MISPAR-BAIT>10815</MISPAR-BAIT>
+                     <MISPAR-KNISA xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <MISPAR-DIRA xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <MIKUD>1081500</MIKUD>
+                     <TA-DOAR>0</TA-DOAR>
+                  </KtovetLemishloach>
+                  <!---I- next block located:[NetuneiAmitOmevutach] for parent key:[9098:0000000015968100:63]. next block key:[9098:0000000015968100:63]-->
+                  <NetuneiAmitOmevutach>
+                     <KOD-ZIHUY-LAKOACH>1</KOD-ZIHUY-LAKOACH>
+                     <MISPAR-ZIHUY>0000000015968100</MISPAR-ZIHUY>
+                  </NetuneiAmitOmevutach>
+                  <!---I- next block located:[NetuneiSheerim] for parent key:[9098:0000000015968100:63]. next block key:[9098:0000000015968100:63]-->
+                  <NetuneiSheerim>
+                     <!---W- optional block not located:[Sheer] for parent key:[System.Object[]]-->
+                  </NetuneiSheerim>
+                  <!---I- next block located:[MaslulBituach] for parent key:[9098:0000000015968100:63]. next block key:[9098:0000000015968100:63]-->
+                  <MaslulBituach>
+                     <MASLUL-BITUACH-BAKEREN-PENSIA>512244146000000000000000000102</MASLUL-BITUACH-BAKEREN-PENSIA>
+                     <SHEM-MASLUL-HABITUAH>משפחה</SHEM-MASLUL-HABITUAH>
+                  </MaslulBituach>
+                  <!---I- next block located:[PerutShiabudIkul] for parent key:[9098:0000000015968100:63]. next block key:[9098:0000000015968100:63]-->
+                  <PerutShiabudIkul>
+                     <HUTAL-SHIABUD>2</HUTAL-SHIABUD>
+                     <HUTAL-IKUL>2</HUTAL-IKUL>
+                  </PerutShiabudIkul>
+                  <!---I- next block located:[Halvaa] for parent key:[9098:0000000015968100:63]. next block key:[9098:0000000015968100:63]-->
+                  <Halvaa>
+                     <YESH-HALVAA-BAMUTZAR>2</YESH-HALVAA-BAMUTZAR>
+                     <RAMAT-HALVAA xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <MISDAR-SIDURI-SHEL-HAHALVAA xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <SCHUM-HALVAA xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <TAARICH-KABALAT-HALVAA xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <TAARICH-SIYUM-HALVAA xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <YITRAT-HALVAA xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <TKUFAT-HALVAA xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <RIBIT xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <SUG-RIBIT xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <SUG-HATZNMADA xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <TADIRUT-HECHZER-HALVAA xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <SUG-HECHZER xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <SCHUM-HECHZER-TKUFATI xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                  </Halvaa>
+                  <!---I- next block located:[PirteyTvia] for parent key:[9098:0000000015968100:63]. next block key:[9098:0000000015968100:63]-->
+                  <PirteyTvia>
+                     <YESH-TVIA>2</YESH-TVIA>
+                     <MISPAR-TVIA-BE-YATZRAN xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <MISPAR-KISUI-BE-YATZRAN xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <SHEM-KISUI-BE-YATZRAN xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <SUG-HATVIAA xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <OFEN-TASHLUM xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <KOD-STATUS-TVIAA xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <TAARICH-STATUS-TVIA xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <TAARICH-TECHILAT-TASHLUM xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <ACHUZ-MEUSHAR-O-K-A-SHICHRUR xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <SCHUM-TVIA-MEUSHAR xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <ACHUZ-NECHUT xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                  </PirteyTvia>
+                  <!---I- next block located:[PerutMitryot] for parent key:[9098:0000000015968100:63]. next block key:[9098:0000000015968100:63]-->
+                  <PerutMitryot>
+                     <KAYAM-KISUY-BITUCHI-COLECTIVI-LEAMITIM>2</KAYAM-KISUY-BITUCHI-COLECTIVI-LEAMITIM>
+                     <SHEM-MEVATACHAT xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <TAARICH-TCHILAT-HABITUACH xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <TAARICH-TOM-TKUFAT-HABITUAH xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <KOD-SUG-MUTZAR-BITUACH xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <SCHUM-BITUACH xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <ALUT-KISUI xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <MESHALEM-DMEI-HABITUAH xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <TADIRUT-HATSHLUM xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <HAIM-NECHTAM-TOFES-HITZTARFUT xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                  </PerutMitryot>
+                  <!---I- next block located:[YitraLefiGilPrisha] for parent key:[9098:0000000015968100:63]. next block key:[9098:0000000015968100:63:0]-->
+                  <YitraLefiGilPrisha>
+                     <GIL-PRISHA>0</GIL-PRISHA>
+                     <TOTAL-CHISACHON-MITZTABER-TZAFUY xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <TZVIRAT-CHISACHON-CHAZUYA-LELO-PREMIYOT>159829.11</TZVIRAT-CHISACHON-CHAZUYA-LELO-PREMIYOT>
+                     <MEKADEM-MOVTACH-LEPRISHA xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <MEKADEM-HAVTACHST-TOCHELET xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <MEKADEM-HAVTACHST-TOCHELETPRISHA xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <SHEM-MASLOL xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <MEKADEM-HAVTACHAT-TSUA xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <MEKADEM-HAVTACHAT-TSUATKUFA xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <TKUFAT-HAGBALA-BESHANIM xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <TOCHELET-MASHPIA-KITZBA xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <TSUA-MASHPIA-KITZBA xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <SHEUR-PNS-ZIKNA-TZFUYA>0.00</SHEUR-PNS-ZIKNA-TZFUYA>
+                     <Kupot>
+                        <!---I- next block located:[Kupa] for parent key:[9098:0000000015968100:63:0]. next block key:[9098:0000000015968100:63:0:1:3.74]-->
+                        <Kupa>
+                           <SUG-KUPA>1</SUG-KUPA>
+                           <SCHUM-KITZVAT-ZIKNA xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <KITZVAT-HODSHIT-TZFUYA>817.80</KITZVAT-HODSHIT-TZFUYA>
+                           <ACHUZ-TSUA-BATACHAZIT>3.74</ACHUZ-TSUA-BATACHAZIT>
+                           <TOTAL-ITRA-TZFUYA-MECHUSHAV-LEHON-IM-PREMIOT xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <TZVIRAT-CHISACHON-TZFUYA-LEHON-LELO-PREMIYOT xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <TOTAL-SCHUM-MTZBR-TZAFUY-LEGIL-PRISHA-MECHUSHAV-LEKITZBA-IM-PREMIYOT xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <TOTAL-SCHUM-MITZVTABER-TZFUY-LEGIL-PRISHA-MECHUSHAV-HAMEYOAD-LEKITZBA-LELO-PREMIYOT>159829.11</TOTAL-SCHUM-MITZVTABER-TZFUY-LEGIL-PRISHA-MECHUSHAV-HAMEYOAD-LEKITZBA-LELO-PREMIYOT>
+                        </Kupa>
+                     </Kupot>
+                  </YitraLefiGilPrisha>
+                  <!---I- next block located:[Tsua] for parent key:[9098:0000000015968100:63]. next block key:[9098:0000000015968100:63]-->
+                  <Tsua>
+                     <SHEUR-TSUA-NETO>0.62</SHEUR-TSUA-NETO>
+                     <SHEUR-TSUA-BRUTO-CHS-1 xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <SHEUR-TSUA-MOVTACHAT-MEYOADOT xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <REVACH-HEFSED-BENIKOI-HOZAHOT>391.81</REVACH-HEFSED-BENIKOI-HOZAHOT>
+                     <SIMAN-REVACH-HEFSED>1</SIMAN-REVACH-HEFSED>
+                     <ACHUZ-TSUA-BRUTO-CHS-2 xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                  </Tsua>
+                  <!---I- next block located:[PirteiTaktziv] for parent key:[9098:0000000015968100:63]. next block key:[9098:0000000015968100:63:0000000000031176]-->
+                  <PirteiTaktziv>
+                     <!---I- next block located:[PirteiOved] for parent key:[9098:0000000015968100:63:0000000000031176]. next block key:[9098:0000000015968100:63:0000000000031176]-->
+                     <PirteiOved>
+                        <SUG-TOCHNIT-O-CHESHBON>1</SUG-TOCHNIT-O-CHESHBON>
+                        <MPR-MAASIK-BE-YATZRAN>0000000000031176</MPR-MAASIK-BE-YATZRAN>
+                        <STATUS-MAASIK>2</STATUS-MAASIK>
+                        <SUG-BAAL-HAPOLISA-SHE-EINO-HAMEVUTACH xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <MISPAR-BAAL-POLISA-SHEEINO-MEVUTAH xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <SHEM-BAAL-POLISA-SHEEINO-MEVUTAH xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                     </PirteiOved>
+                     <!---I- next block located:[PirteiHaasaka] for parent key:[9098:0000000015968100:63:0000000000031176]. next block key:[9098:0000000015968100:63:0000000000031176]-->
+                     <PirteiHaasaka>
+                        <KOD-CHISHUV-SACHAR-POLISA-O-HESHBON>4</KOD-CHISHUV-SACHAR-POLISA-O-HESHBON>
+                        <SACHAR-POLISA>3000.00</SACHAR-POLISA>
+                        <KOD-OFEN-HATZMADA xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <TAARICH-MASKORET>20160801</TAARICH-MASKORET>
+                        <ZAKAUT-LELO-TNAI>2</ZAKAUT-LELO-TNAI>
+                        <SEIF-14>3</SEIF-14>
+                        <TAARICH-TCHILAT-TASHLUM>20141101</TAARICH-TCHILAT-TASHLUM>
+                     </PirteiHaasaka>
+                     <!---I- next block located:[PerutHafrashotLePolisa] for parent key:[9098:0000000015968100:63:0000000000031176]. next block key:[9098:0000000015968100:63:0000000000031176]-->
+                     <PerutHafrashotLePolisa>
+                        <SUG-HAMAFKID>1</SUG-HAMAFKID>
+                        <SUG-HAFRASHA>2</SUG-HAFRASHA>
+                        <ACHUZ-HAFRASHA>7.00</ACHUZ-HAFRASHA>
+                        <SCHUM-HAFRASHA>0.00</SCHUM-HAFRASHA>
+                        <TAARICH-MADAD>20180215</TAARICH-MADAD>
+                     </PerutHafrashotLePolisa>
+                     <PerutHafrashotLePolisa>
+                        <SUG-HAMAFKID>2</SUG-HAMAFKID>
+                        <SUG-HAFRASHA>1</SUG-HAFRASHA>
+                        <ACHUZ-HAFRASHA>8.32</ACHUZ-HAFRASHA>
+                        <SCHUM-HAFRASHA>0.00</SCHUM-HAFRASHA>
+                        <TAARICH-MADAD>20180215</TAARICH-MADAD>
+                     </PerutHafrashotLePolisa>
+                     <PerutHafrashotLePolisa>
+                        <SUG-HAMAFKID>2</SUG-HAMAFKID>
+                        <SUG-HAFRASHA>3</SUG-HAFRASHA>
+                        <ACHUZ-HAFRASHA>6.00</ACHUZ-HAFRASHA>
+                        <SCHUM-HAFRASHA>0.00</SCHUM-HAFRASHA>
+                        <TAARICH-MADAD>20180215</TAARICH-MADAD>
+                     </PerutHafrashotLePolisa>
+                     <!---I- next block located:[PerutMasluleiHashkaa] for parent key:[9098:0000000015968100:63:0000000000031176]. next block key:[9098:0000000015968100:63:0000000000031176]-->
+                     <PerutMasluleiHashkaa>
+                        <KOD-SUG-MASLUL>1</KOD-SUG-MASLUL>
+                        <KOD-SUG-HAFRASHA>1</KOD-SUG-HAFRASHA>
+                        <ACHUZ-HAFKADA-LEHASHKAA>0.00</ACHUZ-HAFKADA-LEHASHKAA>
+                        <SCHUM-TZVIRA-BAMASLUL>6357.26</SCHUM-TZVIRA-BAMASLUL>
+                        <SHEM-MASLUL-HASHKAA>כלל פנסיה כללי (ספיר)</SHEM-MASLUL-HASHKAA>
+                        <SHEUR-DMEI-NIHUL-HAFKADA xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <SHEUR-DMEI-NIHUL-HISACHON xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <DMEI-NIHUL-ACHERIM xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <TSUA-NETO>0.68</TSUA-NETO>
+                        <KOD-MASLUL-HASHKAA>512244146000000000001700002002</KOD-MASLUL-HASHKAA>
+                     </PerutMasluleiHashkaa>
+                     <PerutMasluleiHashkaa>
+                        <KOD-SUG-MASLUL>1</KOD-SUG-MASLUL>
+                        <KOD-SUG-HAFRASHA>2</KOD-SUG-HAFRASHA>
+                        <ACHUZ-HAFKADA-LEHASHKAA>0.00</ACHUZ-HAFKADA-LEHASHKAA>
+                        <SCHUM-TZVIRA-BAMASLUL>9660.39</SCHUM-TZVIRA-BAMASLUL>
+                        <SHEM-MASLUL-HASHKAA>כלל פנסיה כללי (ספיר)</SHEM-MASLUL-HASHKAA>
+                        <SHEUR-DMEI-NIHUL-HAFKADA xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <SHEUR-DMEI-NIHUL-HISACHON xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <DMEI-NIHUL-ACHERIM xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <TSUA-NETO>0.68</TSUA-NETO>
+                        <KOD-MASLUL-HASHKAA>512244146000000000001700002002</KOD-MASLUL-HASHKAA>
+                     </PerutMasluleiHashkaa>
+                     <!---I- next block located:[NetuneiGvia] for parent key:[9098:0000000015968100:63:0000000000031176]. next block key:[9098:0000000015968100:63:0000000000031176]-->
+                     <NetuneiGvia>
+                        <SHEM-MESHALEM>0002 טיב טירת צבי 0002 טיב - טירת צבי</SHEM-MESHALEM>
+                        <SUG-TEUDA-MESHALEM>7</SUG-TEUDA-MESHALEM>
+                        <MISPAR-ZIHUY-MESHALEM>0000000000031176</MISPAR-ZIHUY-MESHALEM>
+                        <KOD-EMTZAEI-TASHLUM>5</KOD-EMTZAEI-TASHLUM>
+                        <TADIRUT-TASHLUM>4</TADIRUT-TASHLUM>
+                        <CHODESH-YECHUS>9</CHODESH-YECHUS>
+                        <YOM-GVIYA-BECHODESH>15</YOM-GVIYA-BECHODESH>
+                        <OFEN-HATZMADAT-GVIA>6</OFEN-HATZMADAT-GVIA>
+                        <ACHUZ-TAT-SHNATIYOT xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                     </NetuneiGvia>
+                     <PirteiHafkadaAchrona>
+                        <!---W- optional block not located:[PerutPirteiHafkadaAchrona] for parent key:[System.Object[]]-->
+                     </PirteiHafkadaAchrona>
+                     <!---W- optional block not located:[PerutHafkadotMetchilatShana] for parent key:[System.Object[]]-->
+                     <!---I- next block located:[HafkadotShnatiyot] for parent key:[9098:0000000015968100:63:0000000000031176]. next block key:[9098:0000000015968100:63:0000000000031176]-->
+                     <HafkadotShnatiyot>
+                        <TOTAL-HAFKADOT-OVED-TAGMULIM-SHANA-NOCHECHIT>0.00</TOTAL-HAFKADOT-OVED-TAGMULIM-SHANA-NOCHECHIT>
+                        <TOTAL-HAFKADOT-MAAVID-TAGMULIM-SHANA-NOCHECHIT>0.00</TOTAL-HAFKADOT-MAAVID-TAGMULIM-SHANA-NOCHECHIT>
+                        <TOTAL-HAFKADOT-PITZUIM-SHANA-NOCHECHIT>0.00</TOTAL-HAFKADOT-PITZUIM-SHANA-NOCHECHIT>
+                     </HafkadotShnatiyot>
+                     <!---W- optional block not located:[MeshichaNiud] for parent key:[System.Object[]]-->
+                     <ChovotPigurim>
+                        <!---I- next block located:[ChovPigur] for parent key:[9098:0000000015968100:63:0000000000031176]. next block key:[9098:0000000015968100:63:0000000000031176]-->
+                        <ChovPigur>
+                           <KAYAM-CHOV-O-PIGUR>2</KAYAM-CHOV-O-PIGUR>
+                           <TAARICH-TECHILAT-PIGUR xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <TAARICH-TECHILAT-PIGUR-NOCHECHI xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <MISPAR-CHODSHEI-PIGUR xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <SUG-HOV xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <TOTAL-CHOVOT-O-PIGURIM xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <KSAFIM-LO-MESHUYACHIM-MAASIK xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                        </ChovPigur>
+                     </ChovotPigurim>
+                     <PerutHotzaot>
+                        <!---I- next block located:[HotzaotBafoalLehodeshDivoach] for parent key:[9098:0000000015968100:63:0000000000031176]. next block key:[9098:0000000015968100:63:0000000000031176]-->
+                        <HotzaotBafoalLehodeshDivoach>
+                           <SHEUR-DMEI-NIHUL-HAFKADA>0.00</SHEUR-DMEI-NIHUL-HAFKADA>
+                           <TOTAL-DMEI-NIHUL-HAFKADA>0.00</TOTAL-DMEI-NIHUL-HAFKADA>
+                           <SHEUR-DMEI-NIHUL-TZVIRA>0.0166</SHEUR-DMEI-NIHUL-TZVIRA>
+                           <TOTAL-DMEI-NIHUL-TZVIRA>2.67</TOTAL-DMEI-NIHUL-TZVIRA>
+                           <SACH-DMEI-NIHUL-ACHERIM>0.00</SACH-DMEI-NIHUL-ACHERIM>
+                           <HOTZOT-NIHUL-ASHKAOT xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <TOTAL-DMEI-NIHUL-POLISA-O-HESHBON>2.67</TOTAL-DMEI-NIHUL-POLISA-O-HESHBON>
+                           <DEMI-AAVARAT-MASLOL xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <DMEI-NIUL-MENAEL-TIKIM xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <OFEN-GEVIAT-DMEI-BITUACH>2</OFEN-GEVIAT-DMEI-BITUACH>
+                           <SACH-DMEI-BITUAH-SHENIGBOO>0.00</SACH-DMEI-BITUAH-SHENIGBOO>
+                        </HotzaotBafoalLehodeshDivoach>
+                        <MivneDmeiNihul>
+                           <!---I- next block located:[PerutMivneDmeiNihul] for parent key:[9098:0000000015968100:63:0000000000031176]. next block key:[9098:0000000015968100:63:0000000000031176]-->
+                           <PerutMivneDmeiNihul>
+                              <GOVA-DMEI-NIHUL-NIKBA-AL-PI-HOTZAOT-BAPOAL>2</GOVA-DMEI-NIHUL-NIKBA-AL-PI-HOTZAOT-BAPOAL>
+                              <SUG-HOTZAA>1</SUG-HOTZAA>
+                              <KOD-MASLUL-DMEI-NIHUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <MEAFYENEI-MASLUL-DMEI-NIHUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <SHEUR-DMEI-NIHUL>0.2000</SHEUR-DMEI-NIHUL>
+                              <TAARICH-IDKUN-SHEUR-DNHL>20160428</TAARICH-IDKUN-SHEUR-DNHL>
+                              <DMEI-NIHUL-ACHIDIM>1</DMEI-NIHUL-ACHIDIM>
+                              <KOD-MASLUL-HASHKAA-BAAL-DMEI-NIHUL-YECHUDIIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <OFEN-HAFRASHA>1</OFEN-HAFRASHA>
+                              <SCHUM-MAX-DNHL-HAFKADA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <SACH-DMEI-NIHUL-MASLUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <DMEI-NIHUL-ACHERIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <KENAS-MESHICHAT-KESAFIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <KAYEMET-HATAVA>1</KAYEMET-HATAVA>
+                              <SUG-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <ACHOZ-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <TAARICH-SIUM-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                           </PerutMivneDmeiNihul>
+                           <PerutMivneDmeiNihul>
+                              <GOVA-DMEI-NIHUL-NIKBA-AL-PI-HOTZAOT-BAPOAL>2</GOVA-DMEI-NIHUL-NIKBA-AL-PI-HOTZAOT-BAPOAL>
+                              <SUG-HOTZAA>1</SUG-HOTZAA>
+                              <KOD-MASLUL-DMEI-NIHUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <MEAFYENEI-MASLUL-DMEI-NIHUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <SHEUR-DMEI-NIHUL>0.2000</SHEUR-DMEI-NIHUL>
+                              <TAARICH-IDKUN-SHEUR-DNHL>20160428</TAARICH-IDKUN-SHEUR-DNHL>
+                              <DMEI-NIHUL-ACHIDIM>1</DMEI-NIHUL-ACHIDIM>
+                              <KOD-MASLUL-HASHKAA-BAAL-DMEI-NIHUL-YECHUDIIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <OFEN-HAFRASHA>2</OFEN-HAFRASHA>
+                              <SCHUM-MAX-DNHL-HAFKADA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <SACH-DMEI-NIHUL-MASLUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <DMEI-NIHUL-ACHERIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <KENAS-MESHICHAT-KESAFIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <KAYEMET-HATAVA>1</KAYEMET-HATAVA>
+                              <SUG-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <ACHOZ-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <TAARICH-SIUM-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                           </PerutMivneDmeiNihul>
+                           <PerutMivneDmeiNihul>
+                              <GOVA-DMEI-NIHUL-NIKBA-AL-PI-HOTZAOT-BAPOAL>2</GOVA-DMEI-NIHUL-NIKBA-AL-PI-HOTZAOT-BAPOAL>
+                              <SUG-HOTZAA>1</SUG-HOTZAA>
+                              <KOD-MASLUL-DMEI-NIHUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <MEAFYENEI-MASLUL-DMEI-NIHUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <SHEUR-DMEI-NIHUL>0.2000</SHEUR-DMEI-NIHUL>
+                              <TAARICH-IDKUN-SHEUR-DNHL>20160428</TAARICH-IDKUN-SHEUR-DNHL>
+                              <DMEI-NIHUL-ACHIDIM>1</DMEI-NIHUL-ACHIDIM>
+                              <KOD-MASLUL-HASHKAA-BAAL-DMEI-NIHUL-YECHUDIIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <OFEN-HAFRASHA>3</OFEN-HAFRASHA>
+                              <SCHUM-MAX-DNHL-HAFKADA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <SACH-DMEI-NIHUL-MASLUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <DMEI-NIHUL-ACHERIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <KENAS-MESHICHAT-KESAFIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <KAYEMET-HATAVA>1</KAYEMET-HATAVA>
+                              <SUG-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <ACHOZ-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <TAARICH-SIUM-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                           </PerutMivneDmeiNihul>
+                           <PerutMivneDmeiNihul>
+                              <GOVA-DMEI-NIHUL-NIKBA-AL-PI-HOTZAOT-BAPOAL>2</GOVA-DMEI-NIHUL-NIKBA-AL-PI-HOTZAOT-BAPOAL>
+                              <SUG-HOTZAA>2</SUG-HOTZAA>
+                              <KOD-MASLUL-DMEI-NIHUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <MEAFYENEI-MASLUL-DMEI-NIHUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <SHEUR-DMEI-NIHUL>1.5000</SHEUR-DMEI-NIHUL>
+                              <TAARICH-IDKUN-SHEUR-DNHL>20161001</TAARICH-IDKUN-SHEUR-DNHL>
+                              <DMEI-NIHUL-ACHIDIM>1</DMEI-NIHUL-ACHIDIM>
+                              <KOD-MASLUL-HASHKAA-BAAL-DMEI-NIHUL-YECHUDIIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <OFEN-HAFRASHA>1</OFEN-HAFRASHA>
+                              <SCHUM-MAX-DNHL-HAFKADA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <SACH-DMEI-NIHUL-MASLUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <DMEI-NIHUL-ACHERIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <KENAS-MESHICHAT-KESAFIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <KAYEMET-HATAVA>2</KAYEMET-HATAVA>
+                              <SUG-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <ACHOZ-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <TAARICH-SIUM-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                           </PerutMivneDmeiNihul>
+                           <PerutMivneDmeiNihul>
+                              <GOVA-DMEI-NIHUL-NIKBA-AL-PI-HOTZAOT-BAPOAL>2</GOVA-DMEI-NIHUL-NIKBA-AL-PI-HOTZAOT-BAPOAL>
+                              <SUG-HOTZAA>2</SUG-HOTZAA>
+                              <KOD-MASLUL-DMEI-NIHUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <MEAFYENEI-MASLUL-DMEI-NIHUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <SHEUR-DMEI-NIHUL>1.5000</SHEUR-DMEI-NIHUL>
+                              <TAARICH-IDKUN-SHEUR-DNHL>20161001</TAARICH-IDKUN-SHEUR-DNHL>
+                              <DMEI-NIHUL-ACHIDIM>1</DMEI-NIHUL-ACHIDIM>
+                              <KOD-MASLUL-HASHKAA-BAAL-DMEI-NIHUL-YECHUDIIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <OFEN-HAFRASHA>2</OFEN-HAFRASHA>
+                              <SCHUM-MAX-DNHL-HAFKADA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <SACH-DMEI-NIHUL-MASLUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <DMEI-NIHUL-ACHERIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <KENAS-MESHICHAT-KESAFIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <KAYEMET-HATAVA>2</KAYEMET-HATAVA>
+                              <SUG-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <ACHOZ-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <TAARICH-SIUM-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                           </PerutMivneDmeiNihul>
+                           <PerutMivneDmeiNihul>
+                              <GOVA-DMEI-NIHUL-NIKBA-AL-PI-HOTZAOT-BAPOAL>2</GOVA-DMEI-NIHUL-NIKBA-AL-PI-HOTZAOT-BAPOAL>
+                              <SUG-HOTZAA>2</SUG-HOTZAA>
+                              <KOD-MASLUL-DMEI-NIHUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <MEAFYENEI-MASLUL-DMEI-NIHUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <SHEUR-DMEI-NIHUL>1.5000</SHEUR-DMEI-NIHUL>
+                              <TAARICH-IDKUN-SHEUR-DNHL>20161001</TAARICH-IDKUN-SHEUR-DNHL>
+                              <DMEI-NIHUL-ACHIDIM>1</DMEI-NIHUL-ACHIDIM>
+                              <KOD-MASLUL-HASHKAA-BAAL-DMEI-NIHUL-YECHUDIIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <OFEN-HAFRASHA>3</OFEN-HAFRASHA>
+                              <SCHUM-MAX-DNHL-HAFKADA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <SACH-DMEI-NIHUL-MASLUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <DMEI-NIHUL-ACHERIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <KENAS-MESHICHAT-KESAFIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <KAYEMET-HATAVA>2</KAYEMET-HATAVA>
+                              <SUG-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <ACHOZ-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <TAARICH-SIUM-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                           </PerutMivneDmeiNihul>
+                        </MivneDmeiNihul>
+                     </PerutHotzaot>
+                     <!---I- next block located:[PerutYitrotLesofShanaKodemet] for parent key:[9098:0000000015968100:63:0000000000031176]. next block key:[9098:0000000015968100:63:0000000000031176]-->
+                     <PerutYitrotLesofShanaKodemet>
+                        <YITRAT-SOF-SHANA xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <ERECH-PIDYON-SOF-SHANA xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <ERECH-MESOLAK-SOF-SHANA xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <YISKON-YITRAT-KESAFIM xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                     </PerutYitrotLesofShanaKodemet>
+                     <BlockItrot>
+                        <!---I- next block located:[Yitrot] for parent key:[9098:0000000015968100:63:0000000000031176]. next block key:[9098:0000000015968100:63:0000000000031176:20180228]-->
+                        <Yitrot>
+                           <TAARICH-ERECH-TZVIROT>20180228</TAARICH-ERECH-TZVIROT>
+                           <!---I- next block located:[PerutYitrot] for parent key:[9098:0000000015968100:63:0000000000031176:20180228]. next block key:[9098:0000000015968100:63:0000000000031176:20180228]-->
+                           <PerutYitrot>
+                              <KOD-SUG-ITRA>2</KOD-SUG-ITRA>
+                              <KOD-SUG-HAFRASHA>1</KOD-SUG-HAFRASHA>
+                              <TOTAL-CHISACHON-MTZBR>6357.26</TOTAL-CHISACHON-MTZBR>
+                              <TOTAL-ERKEI-PIDION>6357.26</TOTAL-ERKEI-PIDION>
+                           </PerutYitrot>
+                           <PerutYitrot>
+                              <KOD-SUG-ITRA>2</KOD-SUG-ITRA>
+                              <KOD-SUG-HAFRASHA>2</KOD-SUG-HAFRASHA>
+                              <TOTAL-CHISACHON-MTZBR>5172.13</TOTAL-CHISACHON-MTZBR>
+                              <TOTAL-ERKEI-PIDION>5172.13</TOTAL-ERKEI-PIDION>
+                           </PerutYitrot>
+                           <PerutYitrot>
+                              <KOD-SUG-ITRA>2</KOD-SUG-ITRA>
+                              <KOD-SUG-HAFRASHA>3</KOD-SUG-HAFRASHA>
+                              <TOTAL-CHISACHON-MTZBR>4488.26</TOTAL-CHISACHON-MTZBR>
+                              <TOTAL-ERKEI-PIDION>4488.26</TOTAL-ERKEI-PIDION>
+                           </PerutYitrot>
+                           <!---I- next block located:[PerutYitraLeTkufa] for parent key:[9098:0000000015968100:63:0000000000031176:20180228]. next block key:[9098:0000000015968100:63:0000000000031176:20180228]-->
+                           <PerutYitraLeTkufa>
+                              <KOD-TECHULAT-SHICHVA>9</KOD-TECHULAT-SHICHVA>
+                              <REKIV-ITRA-LETKUFA>1</REKIV-ITRA-LETKUFA>
+                              <SUG-ITRA-LETKUFA>2</SUG-ITRA-LETKUFA>
+                              <SACH-ITRA-LESHICHVA-BESHACH>6357.26</SACH-ITRA-LESHICHVA-BESHACH>
+                           </PerutYitraLeTkufa>
+                           <PerutYitraLeTkufa>
+                              <KOD-TECHULAT-SHICHVA>2</KOD-TECHULAT-SHICHVA>
+                              <REKIV-ITRA-LETKUFA>2</REKIV-ITRA-LETKUFA>
+                              <SUG-ITRA-LETKUFA>2</SUG-ITRA-LETKUFA>
+                              <SACH-ITRA-LESHICHVA-BESHACH>5172.13</SACH-ITRA-LESHICHVA-BESHACH>
+                           </PerutYitraLeTkufa>
+                           <PerutYitraLeTkufa>
+                              <KOD-TECHULAT-SHICHVA>2</KOD-TECHULAT-SHICHVA>
+                              <REKIV-ITRA-LETKUFA>3</REKIV-ITRA-LETKUFA>
+                              <SUG-ITRA-LETKUFA>2</SUG-ITRA-LETKUFA>
+                              <SACH-ITRA-LESHICHVA-BESHACH>4488.26</SACH-ITRA-LESHICHVA-BESHACH>
+                           </PerutYitraLeTkufa>
+                           <!---I- next block located:[YitrotShonot] for parent key:[9098:0000000015968100:63:0000000000031176:20180228]. next block key:[9098:0000000015968100:63:0000000000031176:20180228]-->
+                           <YitrotShonot>
+                              <MOED-NEZILUT-TAGMULIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <YITRAT-KASPEY-TAGMULIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <TZVIRAT-PITZUIM-PTURIM-MAAVIDIM-KODMIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <ERECH-PIDION-PITZUIM-LEKITZBA-MAAVIDIM-KODMIM>0.00</ERECH-PIDION-PITZUIM-LEKITZBA-MAAVIDIM-KODMIM>
+                              <TZVIRAT-PITZUIM-MAAVIDIM-KODMIM-BERETZEF-KITZBA>6357.26</TZVIRAT-PITZUIM-MAAVIDIM-KODMIM-BERETZEF-KITZBA>
+                              <TZVIRAT-PITZUIM-MAAVIDIM-KODMIM-BERETZEF-ZECHUYOT>0.00</TZVIRAT-PITZUIM-MAAVIDIM-KODMIM-BERETZEF-ZECHUYOT>
+                              <TZVIRAT-PITZUIM-31-12-1999-LEKITZBA>0.00</TZVIRAT-PITZUIM-31-12-1999-LEKITZBA>
+                              <ERECH-PIDION-PITZUIM-MAASIK-NOCHECHI>0.00</ERECH-PIDION-PITZUIM-MAASIK-NOCHECHI>
+                              <ERECH-PIDION-MARKIV-PITZUIM-LEMAS-NOCHECHI>0.00</ERECH-PIDION-MARKIV-PITZUIM-LEMAS-NOCHECHI>
+                              <ERECH-PIDION-PITZUIM-MAAVIDIM-KODMIM-RETZEF-ZEHUYUT>0.00</ERECH-PIDION-PITZUIM-MAAVIDIM-KODMIM-RETZEF-ZEHUYUT>
+                              <ERECH-PIDION-PITZUIM-LEHON-MAAVIDIM-KODMIM>0.00</ERECH-PIDION-PITZUIM-LEHON-MAAVIDIM-KODMIM>
+                              <KAYAM-RETZEF-PITZUIM-KITZBA>1</KAYAM-RETZEF-PITZUIM-KITZBA>
+                              <KAYAM-RETZEF-ZECHUYOT-PITZUIM>2</KAYAM-RETZEF-ZECHUYOT-PITZUIM>
+                           </YitrotShonot>
+                        </Yitrot>
+                     </BlockItrot>
+                  </PirteiTaktziv>
+                  <PirteiTaktziv>
+                     <!---I- next block located:[PirteiOved] for parent key:[9098:0000000015968100:63:0000000000031856]. next block key:[9098:0000000015968100:63:0000000000031856]-->
+                     <PirteiOved>
+                        <SUG-TOCHNIT-O-CHESHBON>1</SUG-TOCHNIT-O-CHESHBON>
+                        <MPR-MAASIK-BE-YATZRAN>0000000000031856</MPR-MAASIK-BE-YATZRAN>
+                        <STATUS-MAASIK>1</STATUS-MAASIK>
+                        <SUG-BAAL-HAPOLISA-SHE-EINO-HAMEVUTACH xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <MISPAR-BAAL-POLISA-SHEEINO-MEVUTAH xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <SHEM-BAAL-POLISA-SHEEINO-MEVUTAH xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                     </PirteiOved>
+                     <!---I- next block located:[PirteiHaasaka] for parent key:[9098:0000000015968100:63:0000000000031856]. next block key:[9098:0000000015968100:63:0000000000031856]-->
+                     <PirteiHaasaka>
+                        <KOD-CHISHUV-SACHAR-POLISA-O-HESHBON>4</KOD-CHISHUV-SACHAR-POLISA-O-HESHBON>
+                        <SACHAR-POLISA>2904.44</SACHAR-POLISA>
+                        <KOD-OFEN-HATZMADA xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <TAARICH-MASKORET>20180101</TAARICH-MASKORET>
+                        <ZAKAUT-LELO-TNAI>2</ZAKAUT-LELO-TNAI>
+                        <SEIF-14>3</SEIF-14>
+                        <TAARICH-TCHILAT-TASHLUM>20111201</TAARICH-TCHILAT-TASHLUM>
+                     </PirteiHaasaka>
+                     <!---I- next block located:[PerutHafrashotLePolisa] for parent key:[9098:0000000015968100:63:0000000000031856]. next block key:[9098:0000000015968100:63:0000000000031856]-->
+                     <PerutHafrashotLePolisa>
+                        <SUG-HAMAFKID>1</SUG-HAMAFKID>
+                        <SUG-HAFRASHA>2</SUG-HAFRASHA>
+                        <ACHUZ-HAFRASHA>7.00</ACHUZ-HAFRASHA>
+                        <SCHUM-HAFRASHA>0.00</SCHUM-HAFRASHA>
+                        <TAARICH-MADAD>20180215</TAARICH-MADAD>
+                     </PerutHafrashotLePolisa>
+                     <PerutHafrashotLePolisa>
+                        <SUG-HAMAFKID>2</SUG-HAMAFKID>
+                        <SUG-HAFRASHA>1</SUG-HAFRASHA>
+                        <ACHUZ-HAFRASHA>8.33</ACHUZ-HAFRASHA>
+                        <SCHUM-HAFRASHA>0.00</SCHUM-HAFRASHA>
+                        <TAARICH-MADAD>20180215</TAARICH-MADAD>
+                     </PerutHafrashotLePolisa>
+                     <PerutHafrashotLePolisa>
+                        <SUG-HAMAFKID>2</SUG-HAMAFKID>
+                        <SUG-HAFRASHA>3</SUG-HAFRASHA>
+                        <ACHUZ-HAFRASHA>6.50</ACHUZ-HAFRASHA>
+                        <SCHUM-HAFRASHA>0.00</SCHUM-HAFRASHA>
+                        <TAARICH-MADAD>20180215</TAARICH-MADAD>
+                     </PerutHafrashotLePolisa>
+                     <!---I- next block located:[PerutMasluleiHashkaa] for parent key:[9098:0000000015968100:63:0000000000031856]. next block key:[9098:0000000015968100:63:0000000000031856]-->
+                     <PerutMasluleiHashkaa>
+                        <KOD-SUG-MASLUL>2</KOD-SUG-MASLUL>
+                        <KOD-SUG-HAFRASHA>1</KOD-SUG-HAFRASHA>
+                        <ACHUZ-HAFKADA-LEHASHKAA>38.16</ACHUZ-HAFKADA-LEHASHKAA>
+                        <SCHUM-TZVIRA-BAMASLUL>19450.22</SCHUM-TZVIRA-BAMASLUL>
+                        <SHEM-MASLUL-HASHKAA>כלל פנסיה כללי (ספיר)</SHEM-MASLUL-HASHKAA>
+                        <SHEUR-DMEI-NIHUL-HAFKADA xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <SHEUR-DMEI-NIHUL-HISACHON xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <DMEI-NIHUL-ACHERIM xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <TSUA-NETO>0.68</TSUA-NETO>
+                        <KOD-MASLUL-HASHKAA>512244146000000000001700002002</KOD-MASLUL-HASHKAA>
+                     </PerutMasluleiHashkaa>
+                     <PerutMasluleiHashkaa>
+                        <KOD-SUG-MASLUL>2</KOD-SUG-MASLUL>
+                        <KOD-SUG-HAFRASHA>2</KOD-SUG-HAFRASHA>
+                        <ACHUZ-HAFKADA-LEHASHKAA>61.84</ACHUZ-HAFKADA-LEHASHKAA>
+                        <SCHUM-TZVIRA-BAMASLUL>24753.64</SCHUM-TZVIRA-BAMASLUL>
+                        <SHEM-MASLUL-HASHKAA>כלל פנסיה כללי (ספיר)</SHEM-MASLUL-HASHKAA>
+                        <SHEUR-DMEI-NIHUL-HAFKADA xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <SHEUR-DMEI-NIHUL-HISACHON xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <DMEI-NIHUL-ACHERIM xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <TSUA-NETO>0.68</TSUA-NETO>
+                        <KOD-MASLUL-HASHKAA>512244146000000000001700002002</KOD-MASLUL-HASHKAA>
+                     </PerutMasluleiHashkaa>
+                     <!---I- next block located:[NetuneiGvia] for parent key:[9098:0000000015968100:63:0000000000031856]. next block key:[9098:0000000015968100:63:0000000000031856]-->
+                     <NetuneiGvia>
+                        <SHEM-MESHALEM>0002 טיב - טירת צבי 0002 טיב - טירת צבי</SHEM-MESHALEM>
+                        <SUG-TEUDA-MESHALEM>7</SUG-TEUDA-MESHALEM>
+                        <MISPAR-ZIHUY-MESHALEM>0000000000031856</MISPAR-ZIHUY-MESHALEM>
+                        <KOD-EMTZAEI-TASHLUM>5</KOD-EMTZAEI-TASHLUM>
+                        <TADIRUT-TASHLUM>4</TADIRUT-TASHLUM>
+                        <CHODESH-YECHUS>2</CHODESH-YECHUS>
+                        <YOM-GVIYA-BECHODESH>15</YOM-GVIYA-BECHODESH>
+                        <OFEN-HATZMADAT-GVIA>6</OFEN-HATZMADAT-GVIA>
+                        <ACHUZ-TAT-SHNATIYOT xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                     </NetuneiGvia>
+                     <PirteiHafkadaAchrona>
+                        <!---I- next block located:[PerutPirteiHafkadaAchrona] for parent key:[9098:0000000015968100:63:0000000000031856]. next block key:[9098:0000000015968100:63:0000000000031856:201801:1]-->
+                        <PerutPirteiHafkadaAchrona>
+                           <TAARICH-HAFKADA-ACHARON>201801</TAARICH-HAFKADA-ACHARON>
+                           <TOTAL-HAFKADA>634.10</TOTAL-HAFKADA>
+                           <HAFKADA-LEHISCHON-A xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <HAFKADA-LEHISCHON-B xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <TAARICH-ERECH-HAFKADA>20180215</TAARICH-ERECH-HAFKADA>
+                           <SUG-HAFKADA>1</SUG-HAFKADA>
+                           <TOTAL-HAFKADA-ACHRONA>624.59</TOTAL-HAFKADA-ACHRONA>
+                           <!---I- next block located:[PerutHafkadaAchrona] for parent key:[9098:0000000015968100:63:0000000000031856:201801:1]. next block key:[9098:0000000015968100:63:0000000000031856:201801:1]-->
+                           <PerutHafkadaAchrona>
+                              <KOD-SUG-HAFKADA>2</KOD-SUG-HAFKADA>
+                              <SUG-HAFRASHA>1</SUG-HAFRASHA>
+                              <SUG-MAFKID>2</SUG-MAFKID>
+                              <SACHAR-BERAMAT-HAFKADA>2904.44</SACHAR-BERAMAT-HAFKADA>
+                              <SCHUM-HAFKADA-SHESHULAM>242.00</SCHUM-HAFKADA-SHESHULAM>
+                              <CHODESH-SACHAR>201801</CHODESH-SACHAR>
+                           </PerutHafkadaAchrona>
+                           <PerutHafkadaAchrona>
+                              <KOD-SUG-HAFKADA>2</KOD-SUG-HAFKADA>
+                              <SUG-HAFRASHA>2</SUG-HAFRASHA>
+                              <SUG-MAFKID>2</SUG-MAFKID>
+                              <SACHAR-BERAMAT-HAFKADA>2904.44</SACHAR-BERAMAT-HAFKADA>
+                              <SCHUM-HAFKADA-SHESHULAM>203.30</SCHUM-HAFKADA-SHESHULAM>
+                              <CHODESH-SACHAR>201801</CHODESH-SACHAR>
+                           </PerutHafkadaAchrona>
+                           <PerutHafkadaAchrona>
+                              <KOD-SUG-HAFKADA>2</KOD-SUG-HAFKADA>
+                              <SUG-HAFRASHA>3</SUG-HAFRASHA>
+                              <SUG-MAFKID>2</SUG-MAFKID>
+                              <SACHAR-BERAMAT-HAFKADA>2904.44</SACHAR-BERAMAT-HAFKADA>
+                              <SCHUM-HAFKADA-SHESHULAM>188.80</SCHUM-HAFKADA-SHESHULAM>
+                              <CHODESH-SACHAR>201801</CHODESH-SACHAR>
+                           </PerutHafkadaAchrona>
+                        </PerutPirteiHafkadaAchrona>
+                     </PirteiHafkadaAchrona>
+                     <!---I- next block located:[PerutHafkadotMetchilatShana] for parent key:[9098:0000000015968100:63:0000000000031856]. next block key:[9098:0000000015968100:63:0000000000031856]-->
+                     <PerutHafkadotMetchilatShana>
+                        <TAARICH-ERECH-HAFKADA>20170917</TAARICH-ERECH-HAFKADA>
+                        <KOD-SUG-HAFKADA>2</KOD-SUG-HAFKADA>
+                        <SUG-HAFRASHA>1</SUG-HAFRASHA>
+                        <SUG-MAFKID>2</SUG-MAFKID>
+                        <SCHUM-HAFKADA-SHESHULAM>456.30</SCHUM-HAFKADA-SHESHULAM>
+                        <SACHAR-BERAMAT-HAFKADA>5477.04</SACHAR-BERAMAT-HAFKADA>
+                        <CHODESH-SACHAR>201708</CHODESH-SACHAR>
+                        <ZMAN-PERAON>201709</ZMAN-PERAON>
+                     </PerutHafkadotMetchilatShana>
+                     <PerutHafkadotMetchilatShana>
+                        <TAARICH-ERECH-HAFKADA>20170917</TAARICH-ERECH-HAFKADA>
+                        <KOD-SUG-HAFKADA>2</KOD-SUG-HAFKADA>
+                        <SUG-HAFRASHA>2</SUG-HAFRASHA>
+                        <SUG-MAFKID>2</SUG-MAFKID>
+                        <SCHUM-HAFKADA-SHESHULAM>383.40</SCHUM-HAFKADA-SHESHULAM>
+                        <SACHAR-BERAMAT-HAFKADA>5477.04</SACHAR-BERAMAT-HAFKADA>
+                        <CHODESH-SACHAR>201708</CHODESH-SACHAR>
+                        <ZMAN-PERAON>201709</ZMAN-PERAON>
+                     </PerutHafkadotMetchilatShana>
+                     <PerutHafkadotMetchilatShana>
+                        <TAARICH-ERECH-HAFKADA>20170917</TAARICH-ERECH-HAFKADA>
+                        <KOD-SUG-HAFKADA>2</KOD-SUG-HAFKADA>
+                        <SUG-HAFRASHA>3</SUG-HAFRASHA>
+                        <SUG-MAFKID>2</SUG-MAFKID>
+                        <SCHUM-HAFKADA-SHESHULAM>356.00</SCHUM-HAFKADA-SHESHULAM>
+                        <SACHAR-BERAMAT-HAFKADA>5477.04</SACHAR-BERAMAT-HAFKADA>
+                        <CHODESH-SACHAR>201708</CHODESH-SACHAR>
+                        <ZMAN-PERAON>201709</ZMAN-PERAON>
+                     </PerutHafkadotMetchilatShana>
+                     <PerutHafkadotMetchilatShana>
+                        <TAARICH-ERECH-HAFKADA>20171015</TAARICH-ERECH-HAFKADA>
+                        <KOD-SUG-HAFKADA>2</KOD-SUG-HAFKADA>
+                        <SUG-HAFRASHA>1</SUG-HAFRASHA>
+                        <SUG-MAFKID>2</SUG-MAFKID>
+                        <SCHUM-HAFKADA-SHESHULAM>309.90</SCHUM-HAFKADA-SHESHULAM>
+                        <SACHAR-BERAMAT-HAFKADA>3720.00</SACHAR-BERAMAT-HAFKADA>
+                        <CHODESH-SACHAR>201709</CHODESH-SACHAR>
+                        <ZMAN-PERAON>201710</ZMAN-PERAON>
+                     </PerutHafkadotMetchilatShana>
+                     <PerutHafkadotMetchilatShana>
+                        <TAARICH-ERECH-HAFKADA>20171015</TAARICH-ERECH-HAFKADA>
+                        <KOD-SUG-HAFKADA>2</KOD-SUG-HAFKADA>
+                        <SUG-HAFRASHA>2</SUG-HAFRASHA>
+                        <SUG-MAFKID>2</SUG-MAFKID>
+                        <SCHUM-HAFKADA-SHESHULAM>260.40</SCHUM-HAFKADA-SHESHULAM>
+                        <SACHAR-BERAMAT-HAFKADA>3720.00</SACHAR-BERAMAT-HAFKADA>
+                        <CHODESH-SACHAR>201709</CHODESH-SACHAR>
+                        <ZMAN-PERAON>201710</ZMAN-PERAON>
+                     </PerutHafkadotMetchilatShana>
+                     <PerutHafkadotMetchilatShana>
+                        <TAARICH-ERECH-HAFKADA>20171015</TAARICH-ERECH-HAFKADA>
+                        <KOD-SUG-HAFKADA>2</KOD-SUG-HAFKADA>
+                        <SUG-HAFRASHA>3</SUG-HAFRASHA>
+                        <SUG-MAFKID>2</SUG-MAFKID>
+                        <SCHUM-HAFKADA-SHESHULAM>241.80</SCHUM-HAFKADA-SHESHULAM>
+                        <SACHAR-BERAMAT-HAFKADA>3720.00</SACHAR-BERAMAT-HAFKADA>
+                        <CHODESH-SACHAR>201709</CHODESH-SACHAR>
+                        <ZMAN-PERAON>201710</ZMAN-PERAON>
+                     </PerutHafkadotMetchilatShana>
+                     <PerutHafkadotMetchilatShana>
+                        <TAARICH-ERECH-HAFKADA>20171115</TAARICH-ERECH-HAFKADA>
+                        <KOD-SUG-HAFKADA>2</KOD-SUG-HAFKADA>
+                        <SUG-HAFRASHA>1</SUG-HAFRASHA>
+                        <SUG-MAFKID>2</SUG-MAFKID>
+                        <SCHUM-HAFKADA-SHESHULAM>355.00</SCHUM-HAFKADA-SHESHULAM>
+                        <SACHAR-BERAMAT-HAFKADA>4261.48</SACHAR-BERAMAT-HAFKADA>
+                        <CHODESH-SACHAR>201710</CHODESH-SACHAR>
+                        <ZMAN-PERAON>201711</ZMAN-PERAON>
+                     </PerutHafkadotMetchilatShana>
+                     <PerutHafkadotMetchilatShana>
+                        <TAARICH-ERECH-HAFKADA>20171115</TAARICH-ERECH-HAFKADA>
+                        <KOD-SUG-HAFKADA>2</KOD-SUG-HAFKADA>
+                        <SUG-HAFRASHA>2</SUG-HAFRASHA>
+                        <SUG-MAFKID>2</SUG-MAFKID>
+                        <SCHUM-HAFKADA-SHESHULAM>298.30</SCHUM-HAFKADA-SHESHULAM>
+                        <SACHAR-BERAMAT-HAFKADA>4261.48</SACHAR-BERAMAT-HAFKADA>
+                        <CHODESH-SACHAR>201710</CHODESH-SACHAR>
+                        <ZMAN-PERAON>201711</ZMAN-PERAON>
+                     </PerutHafkadotMetchilatShana>
+                     <PerutHafkadotMetchilatShana>
+                        <TAARICH-ERECH-HAFKADA>20171115</TAARICH-ERECH-HAFKADA>
+                        <KOD-SUG-HAFKADA>2</KOD-SUG-HAFKADA>
+                        <SUG-HAFRASHA>3</SUG-HAFRASHA>
+                        <SUG-MAFKID>2</SUG-MAFKID>
+                        <SCHUM-HAFKADA-SHESHULAM>277.00</SCHUM-HAFKADA-SHESHULAM>
+                        <SACHAR-BERAMAT-HAFKADA>4261.48</SACHAR-BERAMAT-HAFKADA>
+                        <CHODESH-SACHAR>201710</CHODESH-SACHAR>
+                        <ZMAN-PERAON>201711</ZMAN-PERAON>
+                     </PerutHafkadotMetchilatShana>
+                     <PerutHafkadotMetchilatShana>
+                        <TAARICH-ERECH-HAFKADA>20171217</TAARICH-ERECH-HAFKADA>
+                        <KOD-SUG-HAFKADA>2</KOD-SUG-HAFKADA>
+                        <SUG-HAFRASHA>1</SUG-HAFRASHA>
+                        <SUG-MAFKID>2</SUG-MAFKID>
+                        <SCHUM-HAFKADA-SHESHULAM>268.40</SCHUM-HAFKADA-SHESHULAM>
+                        <SACHAR-BERAMAT-HAFKADA>3221.48</SACHAR-BERAMAT-HAFKADA>
+                        <CHODESH-SACHAR>201711</CHODESH-SACHAR>
+                        <ZMAN-PERAON>201712</ZMAN-PERAON>
+                     </PerutHafkadotMetchilatShana>
+                     <PerutHafkadotMetchilatShana>
+                        <TAARICH-ERECH-HAFKADA>20171217</TAARICH-ERECH-HAFKADA>
+                        <KOD-SUG-HAFKADA>2</KOD-SUG-HAFKADA>
+                        <SUG-HAFRASHA>2</SUG-HAFRASHA>
+                        <SUG-MAFKID>2</SUG-MAFKID>
+                        <SCHUM-HAFKADA-SHESHULAM>225.50</SCHUM-HAFKADA-SHESHULAM>
+                        <SACHAR-BERAMAT-HAFKADA>3221.48</SACHAR-BERAMAT-HAFKADA>
+                        <CHODESH-SACHAR>201711</CHODESH-SACHAR>
+                        <ZMAN-PERAON>201712</ZMAN-PERAON>
+                     </PerutHafkadotMetchilatShana>
+                     <PerutHafkadotMetchilatShana>
+                        <TAARICH-ERECH-HAFKADA>20171217</TAARICH-ERECH-HAFKADA>
+                        <KOD-SUG-HAFKADA>2</KOD-SUG-HAFKADA>
+                        <SUG-HAFRASHA>3</SUG-HAFRASHA>
+                        <SUG-MAFKID>2</SUG-MAFKID>
+                        <SCHUM-HAFKADA-SHESHULAM>209.40</SCHUM-HAFKADA-SHESHULAM>
+                        <SACHAR-BERAMAT-HAFKADA>3221.48</SACHAR-BERAMAT-HAFKADA>
+                        <CHODESH-SACHAR>201711</CHODESH-SACHAR>
+                        <ZMAN-PERAON>201712</ZMAN-PERAON>
+                     </PerutHafkadotMetchilatShana>
+                     <PerutHafkadotMetchilatShana>
+                        <TAARICH-ERECH-HAFKADA>20180115</TAARICH-ERECH-HAFKADA>
+                        <KOD-SUG-HAFKADA>2</KOD-SUG-HAFKADA>
+                        <SUG-HAFRASHA>1</SUG-HAFRASHA>
+                        <SUG-MAFKID>2</SUG-MAFKID>
+                        <SCHUM-HAFKADA-SHESHULAM>282.60</SCHUM-HAFKADA-SHESHULAM>
+                        <SACHAR-BERAMAT-HAFKADA>3391.11</SACHAR-BERAMAT-HAFKADA>
+                        <CHODESH-SACHAR>201712</CHODESH-SACHAR>
+                        <ZMAN-PERAON>201801</ZMAN-PERAON>
+                     </PerutHafkadotMetchilatShana>
+                     <PerutHafkadotMetchilatShana>
+                        <TAARICH-ERECH-HAFKADA>20180115</TAARICH-ERECH-HAFKADA>
+                        <KOD-SUG-HAFKADA>2</KOD-SUG-HAFKADA>
+                        <SUG-HAFRASHA>2</SUG-HAFRASHA>
+                        <SUG-MAFKID>2</SUG-MAFKID>
+                        <SCHUM-HAFKADA-SHESHULAM>237.40</SCHUM-HAFKADA-SHESHULAM>
+                        <SACHAR-BERAMAT-HAFKADA>3391.11</SACHAR-BERAMAT-HAFKADA>
+                        <CHODESH-SACHAR>201712</CHODESH-SACHAR>
+                        <ZMAN-PERAON>201801</ZMAN-PERAON>
+                     </PerutHafkadotMetchilatShana>
+                     <PerutHafkadotMetchilatShana>
+                        <TAARICH-ERECH-HAFKADA>20180115</TAARICH-ERECH-HAFKADA>
+                        <KOD-SUG-HAFKADA>2</KOD-SUG-HAFKADA>
+                        <SUG-HAFRASHA>3</SUG-HAFRASHA>
+                        <SUG-MAFKID>2</SUG-MAFKID>
+                        <SCHUM-HAFKADA-SHESHULAM>220.40</SCHUM-HAFKADA-SHESHULAM>
+                        <SACHAR-BERAMAT-HAFKADA>3391.11</SACHAR-BERAMAT-HAFKADA>
+                        <CHODESH-SACHAR>201712</CHODESH-SACHAR>
+                        <ZMAN-PERAON>201801</ZMAN-PERAON>
+                     </PerutHafkadotMetchilatShana>
+                     <PerutHafkadotMetchilatShana>
+                        <TAARICH-ERECH-HAFKADA>20180215</TAARICH-ERECH-HAFKADA>
+                        <KOD-SUG-HAFKADA>2</KOD-SUG-HAFKADA>
+                        <SUG-HAFRASHA>1</SUG-HAFRASHA>
+                        <SUG-MAFKID>2</SUG-MAFKID>
+                        <SCHUM-HAFKADA-SHESHULAM>242.00</SCHUM-HAFKADA-SHESHULAM>
+                        <SACHAR-BERAMAT-HAFKADA>2904.44</SACHAR-BERAMAT-HAFKADA>
+                        <CHODESH-SACHAR>201801</CHODESH-SACHAR>
+                        <ZMAN-PERAON>201802</ZMAN-PERAON>
+                     </PerutHafkadotMetchilatShana>
+                     <PerutHafkadotMetchilatShana>
+                        <TAARICH-ERECH-HAFKADA>20180215</TAARICH-ERECH-HAFKADA>
+                        <KOD-SUG-HAFKADA>2</KOD-SUG-HAFKADA>
+                        <SUG-HAFRASHA>2</SUG-HAFRASHA>
+                        <SUG-MAFKID>2</SUG-MAFKID>
+                        <SCHUM-HAFKADA-SHESHULAM>203.30</SCHUM-HAFKADA-SHESHULAM>
+                        <SACHAR-BERAMAT-HAFKADA>2904.44</SACHAR-BERAMAT-HAFKADA>
+                        <CHODESH-SACHAR>201801</CHODESH-SACHAR>
+                        <ZMAN-PERAON>201802</ZMAN-PERAON>
+                     </PerutHafkadotMetchilatShana>
+                     <PerutHafkadotMetchilatShana>
+                        <TAARICH-ERECH-HAFKADA>20180215</TAARICH-ERECH-HAFKADA>
+                        <KOD-SUG-HAFKADA>2</KOD-SUG-HAFKADA>
+                        <SUG-HAFRASHA>3</SUG-HAFRASHA>
+                        <SUG-MAFKID>2</SUG-MAFKID>
+                        <SCHUM-HAFKADA-SHESHULAM>188.80</SCHUM-HAFKADA-SHESHULAM>
+                        <SACHAR-BERAMAT-HAFKADA>2904.44</SACHAR-BERAMAT-HAFKADA>
+                        <CHODESH-SACHAR>201801</CHODESH-SACHAR>
+                        <ZMAN-PERAON>201802</ZMAN-PERAON>
+                     </PerutHafkadotMetchilatShana>
+                     <!---I- next block located:[HafkadotShnatiyot] for parent key:[9098:0000000015968100:63:0000000000031856]. next block key:[9098:0000000015968100:63:0000000000031856]-->
+                     <HafkadotShnatiyot>
+                        <TOTAL-HAFKADOT-OVED-TAGMULIM-SHANA-NOCHECHIT>440.70</TOTAL-HAFKADOT-OVED-TAGMULIM-SHANA-NOCHECHIT>
+                        <TOTAL-HAFKADOT-MAAVID-TAGMULIM-SHANA-NOCHECHIT>409.20</TOTAL-HAFKADOT-MAAVID-TAGMULIM-SHANA-NOCHECHIT>
+                        <TOTAL-HAFKADOT-PITZUIM-SHANA-NOCHECHIT>524.60</TOTAL-HAFKADOT-PITZUIM-SHANA-NOCHECHIT>
+                     </HafkadotShnatiyot>
+                     <!---W- optional block not located:[MeshichaNiud] for parent key:[System.Object[]]-->
+                     <ChovotPigurim>
+                        <!---I- next block located:[ChovPigur] for parent key:[9098:0000000015968100:63:0000000000031856]. next block key:[9098:0000000015968100:63:0000000000031856]-->
+                        <ChovPigur>
+                           <KAYAM-CHOV-O-PIGUR>2</KAYAM-CHOV-O-PIGUR>
+                           <TAARICH-TECHILAT-PIGUR xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <TAARICH-TECHILAT-PIGUR-NOCHECHI xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <MISPAR-CHODSHEI-PIGUR xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <SUG-HOV xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <TOTAL-CHOVOT-O-PIGURIM xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <KSAFIM-LO-MESHUYACHIM-MAASIK xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                        </ChovPigur>
+                     </ChovotPigurim>
+                     <PerutHotzaot>
+                        <!---I- next block located:[HotzaotBafoalLehodeshDivoach] for parent key:[9098:0000000015968100:63:0000000000031856]. next block key:[9098:0000000015968100:63:0000000000031856]-->
+                        <HotzaotBafoalLehodeshDivoach>
+                           <SHEUR-DMEI-NIHUL-HAFKADA>1.50</SHEUR-DMEI-NIHUL-HAFKADA>
+                           <TOTAL-DMEI-NIHUL-HAFKADA>9.51</TOTAL-DMEI-NIHUL-HAFKADA>
+                           <SHEUR-DMEI-NIHUL-TZVIRA>0.0166</SHEUR-DMEI-NIHUL-TZVIRA>
+                           <TOTAL-DMEI-NIHUL-TZVIRA>7.31</TOTAL-DMEI-NIHUL-TZVIRA>
+                           <SACH-DMEI-NIHUL-ACHERIM>0.00</SACH-DMEI-NIHUL-ACHERIM>
+                           <HOTZOT-NIHUL-ASHKAOT xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <TOTAL-DMEI-NIHUL-POLISA-O-HESHBON>16.82</TOTAL-DMEI-NIHUL-POLISA-O-HESHBON>
+                           <DEMI-AAVARAT-MASLOL xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <DMEI-NIUL-MENAEL-TIKIM xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <OFEN-GEVIAT-DMEI-BITUACH>2</OFEN-GEVIAT-DMEI-BITUACH>
+                           <SACH-DMEI-BITUAH-SHENIGBOO>40.51</SACH-DMEI-BITUAH-SHENIGBOO>
+                        </HotzaotBafoalLehodeshDivoach>
+                        <MivneDmeiNihul>
+                           <!---I- next block located:[PerutMivneDmeiNihul] for parent key:[9098:0000000015968100:63:0000000000031856]. next block key:[9098:0000000015968100:63:0000000000031856]-->
+                           <PerutMivneDmeiNihul>
+                              <GOVA-DMEI-NIHUL-NIKBA-AL-PI-HOTZAOT-BAPOAL>2</GOVA-DMEI-NIHUL-NIKBA-AL-PI-HOTZAOT-BAPOAL>
+                              <SUG-HOTZAA>1</SUG-HOTZAA>
+                              <KOD-MASLUL-DMEI-NIHUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <MEAFYENEI-MASLUL-DMEI-NIHUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <SHEUR-DMEI-NIHUL>0.2000</SHEUR-DMEI-NIHUL>
+                              <TAARICH-IDKUN-SHEUR-DNHL>20160428</TAARICH-IDKUN-SHEUR-DNHL>
+                              <DMEI-NIHUL-ACHIDIM>1</DMEI-NIHUL-ACHIDIM>
+                              <KOD-MASLUL-HASHKAA-BAAL-DMEI-NIHUL-YECHUDIIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <OFEN-HAFRASHA>1</OFEN-HAFRASHA>
+                              <SCHUM-MAX-DNHL-HAFKADA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <SACH-DMEI-NIHUL-MASLUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <DMEI-NIHUL-ACHERIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <KENAS-MESHICHAT-KESAFIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <KAYEMET-HATAVA>1</KAYEMET-HATAVA>
+                              <SUG-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <ACHOZ-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <TAARICH-SIUM-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                           </PerutMivneDmeiNihul>
+                           <PerutMivneDmeiNihul>
+                              <GOVA-DMEI-NIHUL-NIKBA-AL-PI-HOTZAOT-BAPOAL>2</GOVA-DMEI-NIHUL-NIKBA-AL-PI-HOTZAOT-BAPOAL>
+                              <SUG-HOTZAA>1</SUG-HOTZAA>
+                              <KOD-MASLUL-DMEI-NIHUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <MEAFYENEI-MASLUL-DMEI-NIHUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <SHEUR-DMEI-NIHUL>0.2000</SHEUR-DMEI-NIHUL>
+                              <TAARICH-IDKUN-SHEUR-DNHL>20160428</TAARICH-IDKUN-SHEUR-DNHL>
+                              <DMEI-NIHUL-ACHIDIM>1</DMEI-NIHUL-ACHIDIM>
+                              <KOD-MASLUL-HASHKAA-BAAL-DMEI-NIHUL-YECHUDIIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <OFEN-HAFRASHA>2</OFEN-HAFRASHA>
+                              <SCHUM-MAX-DNHL-HAFKADA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <SACH-DMEI-NIHUL-MASLUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <DMEI-NIHUL-ACHERIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <KENAS-MESHICHAT-KESAFIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <KAYEMET-HATAVA>1</KAYEMET-HATAVA>
+                              <SUG-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <ACHOZ-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <TAARICH-SIUM-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                           </PerutMivneDmeiNihul>
+                           <PerutMivneDmeiNihul>
+                              <GOVA-DMEI-NIHUL-NIKBA-AL-PI-HOTZAOT-BAPOAL>2</GOVA-DMEI-NIHUL-NIKBA-AL-PI-HOTZAOT-BAPOAL>
+                              <SUG-HOTZAA>1</SUG-HOTZAA>
+                              <KOD-MASLUL-DMEI-NIHUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <MEAFYENEI-MASLUL-DMEI-NIHUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <SHEUR-DMEI-NIHUL>0.2000</SHEUR-DMEI-NIHUL>
+                              <TAARICH-IDKUN-SHEUR-DNHL>20160428</TAARICH-IDKUN-SHEUR-DNHL>
+                              <DMEI-NIHUL-ACHIDIM>1</DMEI-NIHUL-ACHIDIM>
+                              <KOD-MASLUL-HASHKAA-BAAL-DMEI-NIHUL-YECHUDIIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <OFEN-HAFRASHA>3</OFEN-HAFRASHA>
+                              <SCHUM-MAX-DNHL-HAFKADA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <SACH-DMEI-NIHUL-MASLUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <DMEI-NIHUL-ACHERIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <KENAS-MESHICHAT-KESAFIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <KAYEMET-HATAVA>1</KAYEMET-HATAVA>
+                              <SUG-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <ACHOZ-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <TAARICH-SIUM-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                           </PerutMivneDmeiNihul>
+                           <PerutMivneDmeiNihul>
+                              <GOVA-DMEI-NIHUL-NIKBA-AL-PI-HOTZAOT-BAPOAL>2</GOVA-DMEI-NIHUL-NIKBA-AL-PI-HOTZAOT-BAPOAL>
+                              <SUG-HOTZAA>2</SUG-HOTZAA>
+                              <KOD-MASLUL-DMEI-NIHUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <MEAFYENEI-MASLUL-DMEI-NIHUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <SHEUR-DMEI-NIHUL>1.5000</SHEUR-DMEI-NIHUL>
+                              <TAARICH-IDKUN-SHEUR-DNHL>20161016</TAARICH-IDKUN-SHEUR-DNHL>
+                              <DMEI-NIHUL-ACHIDIM>1</DMEI-NIHUL-ACHIDIM>
+                              <KOD-MASLUL-HASHKAA-BAAL-DMEI-NIHUL-YECHUDIIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <OFEN-HAFRASHA>1</OFEN-HAFRASHA>
+                              <SCHUM-MAX-DNHL-HAFKADA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <SACH-DMEI-NIHUL-MASLUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <DMEI-NIHUL-ACHERIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <KENAS-MESHICHAT-KESAFIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <KAYEMET-HATAVA>1</KAYEMET-HATAVA>
+                              <SUG-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <ACHOZ-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <TAARICH-SIUM-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                           </PerutMivneDmeiNihul>
+                           <PerutMivneDmeiNihul>
+                              <GOVA-DMEI-NIHUL-NIKBA-AL-PI-HOTZAOT-BAPOAL>2</GOVA-DMEI-NIHUL-NIKBA-AL-PI-HOTZAOT-BAPOAL>
+                              <SUG-HOTZAA>2</SUG-HOTZAA>
+                              <KOD-MASLUL-DMEI-NIHUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <MEAFYENEI-MASLUL-DMEI-NIHUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <SHEUR-DMEI-NIHUL>1.5000</SHEUR-DMEI-NIHUL>
+                              <TAARICH-IDKUN-SHEUR-DNHL>20161016</TAARICH-IDKUN-SHEUR-DNHL>
+                              <DMEI-NIHUL-ACHIDIM>1</DMEI-NIHUL-ACHIDIM>
+                              <KOD-MASLUL-HASHKAA-BAAL-DMEI-NIHUL-YECHUDIIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <OFEN-HAFRASHA>2</OFEN-HAFRASHA>
+                              <SCHUM-MAX-DNHL-HAFKADA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <SACH-DMEI-NIHUL-MASLUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <DMEI-NIHUL-ACHERIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <KENAS-MESHICHAT-KESAFIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <KAYEMET-HATAVA>1</KAYEMET-HATAVA>
+                              <SUG-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <ACHOZ-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <TAARICH-SIUM-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                           </PerutMivneDmeiNihul>
+                           <PerutMivneDmeiNihul>
+                              <GOVA-DMEI-NIHUL-NIKBA-AL-PI-HOTZAOT-BAPOAL>2</GOVA-DMEI-NIHUL-NIKBA-AL-PI-HOTZAOT-BAPOAL>
+                              <SUG-HOTZAA>2</SUG-HOTZAA>
+                              <KOD-MASLUL-DMEI-NIHUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <MEAFYENEI-MASLUL-DMEI-NIHUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <SHEUR-DMEI-NIHUL>1.5000</SHEUR-DMEI-NIHUL>
+                              <TAARICH-IDKUN-SHEUR-DNHL>20161016</TAARICH-IDKUN-SHEUR-DNHL>
+                              <DMEI-NIHUL-ACHIDIM>1</DMEI-NIHUL-ACHIDIM>
+                              <KOD-MASLUL-HASHKAA-BAAL-DMEI-NIHUL-YECHUDIIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <OFEN-HAFRASHA>3</OFEN-HAFRASHA>
+                              <SCHUM-MAX-DNHL-HAFKADA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <SACH-DMEI-NIHUL-MASLUL xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <DMEI-NIHUL-ACHERIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <KENAS-MESHICHAT-KESAFIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <KAYEMET-HATAVA>1</KAYEMET-HATAVA>
+                              <SUG-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <ACHOZ-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <TAARICH-SIUM-HATAVA xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                           </PerutMivneDmeiNihul>
+                        </MivneDmeiNihul>
+                     </PerutHotzaot>
+                     <!---I- next block located:[PerutYitrotLesofShanaKodemet] for parent key:[9098:0000000015968100:63:0000000000031856]. next block key:[9098:0000000015968100:63:0000000000031856]-->
+                     <PerutYitrotLesofShanaKodemet>
+                        <YITRAT-SOF-SHANA xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <ERECH-PIDYON-SOF-SHANA xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <ERECH-MESOLAK-SOF-SHANA xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <YISKON-YITRAT-KESAFIM xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                     </PerutYitrotLesofShanaKodemet>
+                     <BlockItrot>
+                        <!---I- next block located:[Yitrot] for parent key:[9098:0000000015968100:63:0000000000031856]. next block key:[9098:0000000015968100:63:0000000000031856:20180228]-->
+                        <Yitrot>
+                           <TAARICH-ERECH-TZVIROT>20180228</TAARICH-ERECH-TZVIROT>
+                           <!---I- next block located:[PerutYitrot] for parent key:[9098:0000000015968100:63:0000000000031856:20180228]. next block key:[9098:0000000015968100:63:0000000000031856:20180228]-->
+                           <PerutYitrot>
+                              <KOD-SUG-ITRA>2</KOD-SUG-ITRA>
+                              <KOD-SUG-HAFRASHA>1</KOD-SUG-HAFRASHA>
+                              <TOTAL-CHISACHON-MTZBR>19450.22</TOTAL-CHISACHON-MTZBR>
+                              <TOTAL-ERKEI-PIDION>19450.22</TOTAL-ERKEI-PIDION>
+                           </PerutYitrot>
+                           <PerutYitrot>
+                              <KOD-SUG-ITRA>2</KOD-SUG-ITRA>
+                              <KOD-SUG-HAFRASHA>2</KOD-SUG-HAFRASHA>
+                              <TOTAL-CHISACHON-MTZBR>12178.14</TOTAL-CHISACHON-MTZBR>
+                              <TOTAL-ERKEI-PIDION>12178.14</TOTAL-ERKEI-PIDION>
+                           </PerutYitrot>
+                           <PerutYitrot>
+                              <KOD-SUG-ITRA>2</KOD-SUG-ITRA>
+                              <KOD-SUG-HAFRASHA>3</KOD-SUG-HAFRASHA>
+                              <TOTAL-CHISACHON-MTZBR>12575.50</TOTAL-CHISACHON-MTZBR>
+                              <TOTAL-ERKEI-PIDION>12575.50</TOTAL-ERKEI-PIDION>
+                           </PerutYitrot>
+                           <!---I- next block located:[PerutYitraLeTkufa] for parent key:[9098:0000000015968100:63:0000000000031856:20180228]. next block key:[9098:0000000015968100:63:0000000000031856:20180228]-->
+                           <PerutYitraLeTkufa>
+                              <KOD-TECHULAT-SHICHVA>9</KOD-TECHULAT-SHICHVA>
+                              <REKIV-ITRA-LETKUFA>1</REKIV-ITRA-LETKUFA>
+                              <SUG-ITRA-LETKUFA>2</SUG-ITRA-LETKUFA>
+                              <SACH-ITRA-LESHICHVA-BESHACH>19450.22</SACH-ITRA-LESHICHVA-BESHACH>
+                           </PerutYitraLeTkufa>
+                           <PerutYitraLeTkufa>
+                              <KOD-TECHULAT-SHICHVA>2</KOD-TECHULAT-SHICHVA>
+                              <REKIV-ITRA-LETKUFA>2</REKIV-ITRA-LETKUFA>
+                              <SUG-ITRA-LETKUFA>2</SUG-ITRA-LETKUFA>
+                              <SACH-ITRA-LESHICHVA-BESHACH>12178.14</SACH-ITRA-LESHICHVA-BESHACH>
+                           </PerutYitraLeTkufa>
+                           <PerutYitraLeTkufa>
+                              <KOD-TECHULAT-SHICHVA>2</KOD-TECHULAT-SHICHVA>
+                              <REKIV-ITRA-LETKUFA>3</REKIV-ITRA-LETKUFA>
+                              <SUG-ITRA-LETKUFA>2</SUG-ITRA-LETKUFA>
+                              <SACH-ITRA-LESHICHVA-BESHACH>12575.50</SACH-ITRA-LESHICHVA-BESHACH>
+                           </PerutYitraLeTkufa>
+                           <!---I- next block located:[YitrotShonot] for parent key:[9098:0000000015968100:63:0000000000031856:20180228]. next block key:[9098:0000000015968100:63:0000000000031856:20180228]-->
+                           <YitrotShonot>
+                              <MOED-NEZILUT-TAGMULIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <YITRAT-KASPEY-TAGMULIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <TZVIRAT-PITZUIM-PTURIM-MAAVIDIM-KODMIM xmlns:p8="http://www.w3.org/2001/XMLSchema-instance" p8:nil="true" />
+                              <ERECH-PIDION-PITZUIM-LEKITZBA-MAAVIDIM-KODMIM>0.00</ERECH-PIDION-PITZUIM-LEKITZBA-MAAVIDIM-KODMIM>
+                              <TZVIRAT-PITZUIM-MAAVIDIM-KODMIM-BERETZEF-KITZBA>0.00</TZVIRAT-PITZUIM-MAAVIDIM-KODMIM-BERETZEF-KITZBA>
+                              <TZVIRAT-PITZUIM-MAAVIDIM-KODMIM-BERETZEF-ZECHUYOT>0.00</TZVIRAT-PITZUIM-MAAVIDIM-KODMIM-BERETZEF-ZECHUYOT>
+                              <TZVIRAT-PITZUIM-31-12-1999-LEKITZBA>0.00</TZVIRAT-PITZUIM-31-12-1999-LEKITZBA>
+                              <ERECH-PIDION-PITZUIM-MAASIK-NOCHECHI>19450.22</ERECH-PIDION-PITZUIM-MAASIK-NOCHECHI>
+                              <ERECH-PIDION-MARKIV-PITZUIM-LEMAS-NOCHECHI>19450.22</ERECH-PIDION-MARKIV-PITZUIM-LEMAS-NOCHECHI>
+                              <ERECH-PIDION-PITZUIM-MAAVIDIM-KODMIM-RETZEF-ZEHUYUT>0.00</ERECH-PIDION-PITZUIM-MAAVIDIM-KODMIM-RETZEF-ZEHUYUT>
+                              <ERECH-PIDION-PITZUIM-LEHON-MAAVIDIM-KODMIM>0.00</ERECH-PIDION-PITZUIM-LEHON-MAAVIDIM-KODMIM>
+                              <KAYAM-RETZEF-PITZUIM-KITZBA>2</KAYAM-RETZEF-PITZUIM-KITZBA>
+                              <KAYAM-RETZEF-ZECHUYOT-PITZUIM>2</KAYAM-RETZEF-ZECHUYOT-PITZUIM>
+                           </YitrotShonot>
+                        </Yitrot>
+                     </BlockItrot>
+                  </PirteiTaktziv>
+                  <!---I- next block located:[PerutMeyupeKoach] for parent key:[9098:0000000015968100:63]. next block key:[9098:0000000015968100:63]-->
+                  <PerutMeyupeKoach>
+                     <KAYAM-MEYUPE-KOACH>2</KAYAM-MEYUPE-KOACH>
+                     <SUG-ZIHUY xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <MISPAR-ZIHUY xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                     <SHEM-MEYUPE-KOACH xmlns:p5="http://www.w3.org/2001/XMLSchema-instance" p5:nil="true" />
+                  </PerutMeyupeKoach>
+                  <!---I- next block located:[Kisuim] for parent key:[9098:0000000015968100:63]. next block key:[9098:0000000015968100:63:63]-->
+                  <Kisuim>
+                     <!---I- next block located:[ZihuiKisui] for parent key:[9098:0000000015968100:63:63]. next block key:[9098:0000000015968100:63:63]-->
+                     <ZihuiKisui>
+                        <MISPAR-KISUI-BE-YATZRAN>512244146000000000001700000102</MISPAR-KISUI-BE-YATZRAN>
+                        <SHEM-KISUI-YATZRAN>משפחה</SHEM-KISUI-YATZRAN>
+                        <SUG-KISUI-ETZEL-YATZRAN xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <MISPAR-POLISA-O-HESHBON-NEGDI xmlns:p6="http://www.w3.org/2001/XMLSchema-instance" p6:nil="true" />
+                        <!---I- next block located:[PirteiMevutach] for parent key:[9098:0000000015968100:63:63]. next block key:[9098:0000000015968100:63:63]-->
+                        <PirteiMevutach>
+                           <SUG-TEUDA>1</SUG-TEUDA>
+                           <MISPAR-ZIHUY-LAKOACH>0000000015968100</MISPAR-ZIHUY-LAKOACH>
+                        </PirteiMevutach>
+                        <SchumeiBituahYesodi>
+                           <!---W- Block:[SchumeiBituahYesodi] Not Implemented By Design-->
+                           <KOD-MUTZAR-LEFI-KIDUD-ACHID-LAYESODI xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <SUG-HATZMADA-SCHUM-BITUAH xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <SUG-HATZMADA-DMEI-BITUAH xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <SUG-MASLUL-LEBITUAH xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <IND-SCHUM-BITUAH-KOLEL-CHISACHON xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <SCHUM-BITUACH-LEMASLUL xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <MISPAR-MASKOROT xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <ACHUZ-HAKTZAA-LE-CHISACHON xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <TIKRAT-GAG-HATAM-LEMIKRE-MAVET xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <TIKRAT-GAG-HATAM-LE-O-K-A xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <SCHUM-BITUAH-LEMAVET xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                        </SchumeiBituahYesodi>
+                        <!---I- next block located:[PirteiKisuiBeMutzar] for parent key:[9098:0000000015968100:63:63]. next block key:[9098:0000000015968100:63:63]-->
+                        <PirteiKisuiBeMutzar>
+                           <KOD-MIUTZAR-LAKISUY>512244146000000000001700000102</KOD-MIUTZAR-LAKISUY>
+                           <SUG-MEVUTACH>1</SUG-MEVUTACH>
+                           <SUG-KISUY-BITOCHI>9</SUG-KISUY-BITOCHI>
+                           <TAARICH-TCHILAT-KISUY>20120112</TAARICH-TCHILAT-KISUY>
+                           <TAARICH-TOM-KISUY>20440901</TAARICH-TOM-KISUY>
+                           <KOD-NISPACH-KISUY xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <SUG-ISUK>2</SUG-ISUK>
+                           <KOLEL-PRENZISA>2</KOLEL-PRENZISA>
+                           <TAARICH-HAFSAKAT-TASHLUM>20180215</TAARICH-HAFSAKAT-TASHLUM>
+                           <ACHUZ-ME-SCM-BTH-YESODI xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <ACHUZ-MESACHAR xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <OFEN-TASHLUM-SCHUM-BITUACH>2</OFEN-TASHLUM-SCHUM-BITUACH>
+                           <SCHUM-BITUACH>0.00</SCHUM-BITUACH>
+                           <MESHALEM-HAKISUY>6</MESHALEM-HAKISUY>
+                           <KOD-ISHUN>3</KOD-ISHUN>
+                           <IND-CHITUM>2</IND-CHITUM>
+                           <TAARICH-CHITUM xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <HACHRAGA>2</HACHRAGA>
+                           <SUG-HACHRAGA xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <TKUFAT-ACHSHARA>60</TKUFAT-ACHSHARA>
+                           <TKUFAT-HAMTANA-CHODASHIM>0</TKUFAT-HAMTANA-CHODASHIM>
+                           <HANACHA xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <HATNAYA-LAHANACHA-DMEI-BITUAH xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <DMEI-BITUAH-LETASHLUM-BAPOAL xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <SUG-HANACHA-KISUY xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <SHIUR-HANACHA-BEKISUI xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <ERECH-HANACHA-BEKISUI xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <TADIRUT-SHINUY-DMEI-HABITUAH-BESHANIM xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <TAARICH-IDKUN-HABA-SHEL-DMEI-HABITUAH xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                        </PirteiKisuiBeMutzar>
+                        <!---I- next block located:[PirteiTosafot] for parent key:[9098:0000000015968100:63:63]. next block key:[9098:0000000015968100:63:63]-->
+                        <PirteiTosafot>
+                           <TOSEFET-TAARIF>2</TOSEFET-TAARIF>
+                           <KOD-SUG-TOSEFET xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <SHEUR-TOSEFET xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <PROMIL-TOSEFET xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <TAARICH-TOM-TOSEFET xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                        </PirteiTosafot>
+                        <!---I- next block located:[Mutav] for parent key:[9098:0000000015968100:63:63]. next block key:[9098:0000000015968100:63:63]-->
+                        <Mutav>
+                           <SUG-ZIHUY-MUTAV>6</SUG-ZIHUY-MUTAV>
+                           <KOD-ZIHUY-MUTAV xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <MISPAR-ZIHUY-MUTAV xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <SHEM-PRATI-MUTAV xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <SHEM-MISHPACHA-MUTAV xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <SUG-ZIKA xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <ACHUZ-MUTAV xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <HAGDARAT-MUTAV xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <MAHUT-MUTAV xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                        </Mutav>
+                        <!---I- next block located:[KisuiBKerenPensia] for parent key:[9098:0000000015968100:63:63]. next block key:[9098:0000000015968100:63:63]-->
+                        <KisuiBKerenPensia>
+                           <ALUT-KISUI-NECHUT>10.54</ALUT-KISUI-NECHUT>
+                           <ALUT-KISUI-PNS-SHRM-NECHE>3.51</ALUT-KISUI-PNS-SHRM-NECHE>
+                           <SHEUR-KISUY-NECHUT>75.00</SHEUR-KISUY-NECHUT>
+                           <SACHAR-KOVEA-LE-NECHUT-VE-SHEERIM>3362.38</SACHAR-KOVEA-LE-NECHUT-VE-SHEERIM>
+                           <TAARICH-MASKORET-NECHUT-VE-SHEERIM>20180228</TAARICH-MASKORET-NECHUT-VE-SHEERIM>
+                           <SUG-VITOR-SHAERIM>0</SUG-VITOR-SHAERIM>
+                           <SACH-PENSIAT-NECHUT>2521.79</SACH-PENSIAT-NECHUT>
+                           <ALUT-KISUY-SHEERIM>26.46</ALUT-KISUY-SHEERIM>
+                           <SHIUR-KISUY-YATOM>40.00</SHIUR-KISUY-YATOM>
+                           <KITZBAT-SHEERIM-LEALMAN-O-ALMANA>2017.43</KITZBAT-SHEERIM-LEALMAN-O-ALMANA>
+                           <KITZBAT-SHEERIM-LEYATOM>1344.95</KITZBAT-SHEERIM-LEYATOM>
+                           <KITZBAT-SHEERIM-LEHORE-NITMACH>672.48</KITZBAT-SHEERIM-LEHORE-NITMACH>
+                           <TAARICH-VITOR-SHEERIM xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <TAARICH-CIUM-VITOR-SEERIM xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <SHIUR-KISUY-ALMAN-O-ALMANA>60.00</SHIUR-KISUY-ALMAN-O-ALMANA>
+                           <SHIUR-KISUY-HORE-NITMACH>20.00</SHIUR-KISUY-HORE-NITMACH>
+                           <GIL-PRISHA-LEPENSIYAT-ZIKNA>67.00</GIL-PRISHA-LEPENSIYAT-ZIKNA>
+                           <SACH-PENSIYAT-ALMAN-O-ALMANA>219.09</SACH-PENSIYAT-ALMAN-O-ALMANA>
+                           <MISPAR-HODSHEI-HAVERUT-BEKEREN-HAPENSIYA>74</MISPAR-HODSHEI-HAVERUT-BEKEREN-HAPENSIYA>
+                           <MISPAR-HODSHEI-HAVERUT-MITZ-BEKEREN-HAPENSIYA xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <MENAT-PENSIA-TZVURA xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <AHUZ-PENSIYA-TZVURA xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <TAARICH-TCHILAT-HAVERUT>20120112</TAARICH-TCHILAT-HAVERUT>
+                           <TAARICH-ERECH-LANENTUNIM>20180228</TAARICH-ERECH-LANENTUNIM>
+                           <HATAVA-BITUCHIT>2</HATAVA-BITUCHIT>
+                        </KisuiBKerenPensia>
+                        <!---I- next block located:[Miktsoa_Isuk_Tachviv] for parent key:[9098:0000000015968100:63:63]. next block key:[9098:0000000015968100:63:63]-->
+                        <Miktsoa-Isuk-Tachviv>
+                           <TACHVIVIM-O-ISUKIM xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <KOD-MIKTZOA xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                           <TCHUM-ISUK-CHADASH xmlns:p7="http://www.w3.org/2001/XMLSchema-instance" p7:nil="true" />
+                        </Miktsoa-Isuk-Tachviv>
+                     </ZihuiKisui>
+                  </Kisuim>
+               </HeshbonOPolisa>
+            </HeshbonotOPolisot>
+         </Mutzar>
+      </Mutzarim>
+   </YeshutYatzran>
+   <ReshumatSgira>
+      <KAMUT-YATZRANIM>000000001</KAMUT-YATZRANIM>
+      <KAMUT-METAFELIM>000000001</KAMUT-METAFELIM>
+      <KAMUT-MUTZARIM>000000001</KAMUT-MUTZARIM>
+      <KAMUT-YESHUYOT-MAASIK>000000001</KAMUT-YESHUYOT-MAASIK>
+      <KAMUT-YESHUYOT-MEFITZ>000000001</KAMUT-YESHUYOT-MEFITZ>
+      <MISPAR-YESHUYUT-LAKOACH-BAKOVETZ>000000001</MISPAR-YESHUYUT-LAKOACH-BAKOVETZ>
+      <KAMUT-POLISOT>000000001</KAMUT-POLISOT>
+   </ReshumatSgira>
+</Mimshak>
