@@ -1,0 +1,4 @@
+A => Mimshak - YeshutYatzran - Mutzarim - Mutzar - NetuneiMutzar - YeshutLakoach - MISPAR-ZIHUY-LAKOACH
+B => Mimshak - YeshutYatzran - Mutzarim - Mutzar - NetuneiMutzar - YeshutLakoach - SHEM-PRATI
+C => Mimshak - YeshutYatzran - Mutzarim - Mutzar - NetuneiMutzar - YeshutLakoach - SHEM-MISHPACHA
+D => Mimshak - YeshutYatzran - Mutzarim - Mutzar - NetuneiMutzar - YeshutLakoach - TAARICH-LEYDA (need to parse, 19770919 yyyyMMdd)
