@@ -1,6 +1,5 @@
-from entities.member_personal_data import MemberPersonalData
-from entities.mutzar import Mutzar
 from utilities.printable import Printable
+
 
 class Member(Printable):
 

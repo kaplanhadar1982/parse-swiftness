@@ -3,6 +3,7 @@ import os
 
 from entities.member import Member
 from entities.mutzar import Mutzar
+from entities.maasik import Maasik
 from entities.member_personal_data import MemberPersonalData
 
 class XmlUtils:
@@ -18,7 +19,6 @@ class XmlUtils:
                 cls.parse_one_xml(member,folder_name+'\\'+filename)
         
         print(member)
-        print(member.member_personal_data.identity_number)
         return member
         
 
@@ -38,9 +38,14 @@ class XmlUtils:
                 cls.read_one_cell(root,'./YeshutYatzran/Mutzarim/Mutzar/NetuneiMutzar/YeshutLakoach/TAARICH-LEYDA'))
 
         mutzar = Mutzar(
-            cls.read_one_cell(root,'./YeshutYatzran/Mutzarim/Mutzar/NetuneiMutzar/YeshutLakoach/SUG-MUTZAR'),
+            cls.read_one_cell(root,'./YeshutYatzran/Mutzarim/Mutzar/NetuneiMutzar/SUG-MUTZAR'),
             cls.read_one_cell(root,'./YeshutYatzran/Mutzarim/Mutzar/HeshbonotOPolisot/HeshbonOPolisa/SHEM-TOCHNIT'),
-            cls.read_one_cell(root,'./YeshutYatzran/Mutzarim/Mutzar/HeshbonotOPolisot/HeshbonOPolisa/PirteiTaktziv/PerutMasluleiHashkaa/SHEM-MASLUL-HASHKAA'))
+            cls.read_one_cell(root,'./YeshutYatzran/Mutzarim/Mutzar/HeshbonotOPolisot/HeshbonOPolisa/PirteiTaktziv/PerutMasluleiHashkaa/SHEM-MASLUL-HASHKAA'),
+            cls.read_one_cell(root,'./YeshutYatzran/Mutzarim/Mutzar/HeshbonotOPolisot/HeshbonOPolisa/TAARICH-HITZTARFUT-MUTZAR'))
+
+        for f_maasik in root.findall('./YeshutYatzran/Mutzarim/Mutzar/NetuneiMutzar/YeshutMaasik'):
+            maasik = Maasik(f_maasik.find('SHEM-MAASIK').text)
+            mutzar.add_maasik(maasik)
 
         member.add_mutzar(mutzar)
 
