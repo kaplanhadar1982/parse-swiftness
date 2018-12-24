@@ -1,0 +1,2 @@
+configparser==3.5.0
+XlsxWriter==1.1.2
